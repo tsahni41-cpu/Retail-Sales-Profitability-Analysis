@@ -1,0 +1,901 @@
+transaction_id,order_id,order_date,customer_id,customer_name,city,region,product,category,quantity,unit_price,revenue,cost,profit,payment_method,sales_channel
+1,ORD-2024-0001,2024-01-01,CUST-0028,Amelia Roberts,London,London,Foam Roller,Fitness,1,25.64,25.64,14.37,11.27,PayPal,Online
+2,ORD-2024-0002,2024-01-04,CUST-0005,Olivia Singh,Liverpool,North West,Gel Pen Set,Office,2,8.99,17.98,8.00,9.98,Debit Card,Online
+3,ORD-2024-0003,2024-01-04,CUST-0153,Jessica Green,Leeds,Yorkshire,Hiking Backpack 30L,Outdoor,3,66.49,199.47,139.05,60.42,Debit Card,Online
+4,ORD-2024-0004,2024-01-05,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,LED Desk Lamp,Home & Kitchen,1,29.99,29.99,16.34,13.65,Gift Card,Online
+5,ORD-2024-0005,2024-01-06,CUST-0010,Charlotte Martin,Brighton,South East,Filter Coffee Maker,Home & Kitchen,2,79.99,159.98,111.19,48.79,PayPal,Online
+6,ORD-2024-0006,2024-01-06,CUST-0047,Alice Phillips,London,London,Notebook Set,Office,1,11.04,11.04,6.34,4.70,Apple Pay,Retail Store
+7,ORD-2024-0007,2024-01-06,CUST-0057,Mohammed Walker,Brighton,South East,Insulated Sports Bottle,Fitness,2,14.99,29.98,15.59,14.39,Credit Card,Marketplace
+8,ORD-2024-0008,2024-01-08,CUST-0069,Lucas Foster,Brighton,South East,Notebook Set,Office,1,12.99,12.99,6.17,6.82,PayPal,Online
+9,ORD-2024-0009,2024-01-09,CUST-0169,Eleanor Hughes,Belfast,Northern Ireland,Wireless Mouse,Electronics,1,24.99,24.99,15.74,9.25,Debit Card,Retail Store
+10,ORD-2024-0010,2024-01-11,CUST-0011,Thomas Ahmed,Liverpool,North West,Air Fryer,Home & Kitchen,1,89.99,89.99,64.34,25.65,PayPal,Online
+11,ORD-2024-0011,2024-01-11,CUST-0032,Jessica Evans,Birmingham,Midlands,Electric Kettle,Home & Kitchen,1,34.99,34.99,22.74,12.25,Debit Card,Retail Store
+12,ORD-2024-0011,2024-01-11,CUST-0032,Jessica Evans,Birmingham,Midlands,Mechanical Keyboard,Electronics,1,69.99,69.99,48.29,21.70,Debit Card,Retail Store
+13,ORD-2024-0012,2024-01-12,CUST-0034,Emily Edwards,Liverpool,North West,Portable SSD 1TB,Electronics,1,85.49,85.49,73.09,12.40,Debit Card,Online
+14,ORD-2024-0013,2024-01-12,CUST-0035,Oscar Collins,London,London,Portable SSD 1TB,Electronics,1,94.99,94.99,75.99,19.00,Debit Card,Retail Store
+15,ORD-2024-0013,2024-01-12,CUST-0035,Oscar Collins,London,London,Insulated Sports Bottle,Fitness,2,14.24,28.48,14.27,14.21,Debit Card,Retail Store
+16,ORD-2024-0014,2024-01-12,CUST-0071,Daniel Baker,Southampton,South East,Resistance Band Set,Fitness,1,18.99,18.99,10.44,8.55,Credit Card,Marketplace
+17,ORD-2024-0014,2024-01-12,CUST-0071,Daniel Baker,Southampton,South East,Air Fryer,Home & Kitchen,1,85.49,85.49,69.65,15.84,Credit Card,Marketplace
+18,ORD-2024-0015,2024-01-15,CUST-0027,Joseph King,Sheffield,Yorkshire,Air Fryer,Home & Kitchen,1,89.99,89.99,64.34,25.65,Credit Card,Online
+19,ORD-2024-0015,2024-01-15,CUST-0027,Joseph King,Sheffield,Yorkshire,Notebook Set,Office,1,12.99,12.99,6.17,6.82,Credit Card,Online
+20,ORD-2024-0015,2024-01-15,CUST-0027,Joseph King,Sheffield,Yorkshire,Waterproof Picnic Blanket,Outdoor,1,27.99,27.99,14.13,13.86,Credit Card,Online
+21,ORD-2024-0016,2024-01-17,CUST-0027,Joseph King,Sheffield,Yorkshire,Resistance Band Set,Fitness,1,17.09,17.09,9.53,7.56,Credit Card,Retail Store
+22,ORD-2024-0016,2024-01-17,CUST-0027,Joseph King,Sheffield,Yorkshire,Stainless Steel Travel Mug,Outdoor,1,16.99,16.99,10.15,6.84,Credit Card,Retail Store
+23,ORD-2024-0017,2024-01-17,CUST-0175,Lily Collins,Southampton,South East,Gel Pen Set,Office,2,8.99,17.98,9.17,8.81,PayPal,Marketplace
+24,ORD-2024-0018,2024-01-18,CUST-0017,Emily Singh,Glasgow,Scotland,Foam Roller,Fitness,2,26.99,53.98,28.88,25.10,PayPal,Online
+25,ORD-2024-0019,2024-01-19,CUST-0029,Alice Campbell,Bristol,South West,Gel Pen Set,Office,2,8.99,17.98,8.00,9.98,Credit Card,Online
+26,ORD-2024-0020,2024-01-20,CUST-0130,Priya Smith,Cardiff,Wales,Wireless Mouse,Electronics,1,24.99,24.99,15.12,9.87,Credit Card,Online
+27,ORD-2024-0020,2024-01-20,CUST-0130,Priya Smith,Cardiff,Wales,Foam Roller,Fitness,4,26.99,107.96,57.76,50.20,Credit Card,Online
+28,ORD-2024-0021,2024-01-21,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Laptop Stand,Electronics,1,35.99,35.99,22.77,13.22,Credit Card,Online
+29,ORD-2024-0022,2024-01-21,CUST-0123,Harry Thomas,Nottingham,Midlands,Cordless Vacuum,Home & Kitchen,2,161.49,322.98,293.74,29.24,PayPal,Marketplace
+30,ORD-2024-0022,2024-01-21,CUST-0123,Harry Thomas,Nottingham,Midlands,Notebook Set,Office,1,12.99,12.99,7.01,5.98,PayPal,Marketplace
+31,ORD-2024-0023,2024-01-22,CUST-0001,Imogen Roberts,Bristol,South West,Electric Kettle,Home & Kitchen,1,34.99,34.99,22.74,12.25,Gift Card,Retail Store
+32,ORD-2024-0023,2024-01-22,CUST-0001,Imogen Roberts,Bristol,South West,Adjustable Dumbbell Set,Fitness,1,84.99,84.99,62.04,22.95,Gift Card,Retail Store
+33,ORD-2024-0023,2024-01-22,CUST-0001,Imogen Roberts,Bristol,South West,Garden Tool Set,Outdoor,3,44.99,134.97,83.68,51.29,Gift Card,Retail Store
+34,ORD-2024-0024,2024-01-22,CUST-0107,Thomas King,Newcastle,North East,Noise-Cancelling Headphones,Electronics,1,139.99,139.99,107.09,32.90,Apple Pay,Online
+35,ORD-2024-0024,2024-01-22,CUST-0107,Thomas King,Newcastle,North East,Notebook Set,Office,1,11.69,11.69,6.10,5.59,Apple Pay,Online
+36,ORD-2024-0025,2024-01-22,CUST-0161,Joseph Patel,Birmingham,Midlands,Notebook Set,Office,2,12.99,25.98,12.34,13.64,Credit Card,Online
+37,ORD-2024-0026,2024-01-24,CUST-0152,Zoe Lewis,Birmingham,Midlands,Printer Paper Pack,Office,2,7.19,14.38,8.46,5.92,Credit Card,Online
+38,ORD-2024-0027,2024-01-25,CUST-0008,William Walker,Glasgow,Scotland,Insulated Sports Bottle,Fitness,6,14.99,89.94,40.92,49.02,Apple Pay,Online
+39,ORD-2024-0027,2024-01-25,CUST-0008,William Walker,Glasgow,Scotland,Noise-Cancelling Headphones,Electronics,1,139.99,139.99,107.09,32.90,Apple Pay,Online
+40,ORD-2024-0028,2024-01-25,CUST-0017,Emily Singh,Glasgow,Scotland,Notebook Set,Office,1,12.99,12.99,6.17,6.82,Debit Card,Online
+41,ORD-2024-0028,2024-01-25,CUST-0017,Emily Singh,Glasgow,Scotland,Two-Drawer Filing Cabinet,Office,3,119.99,359.97,268.18,91.79,Debit Card,Online
+42,ORD-2024-0029,2024-02-02,CUST-0057,Mohammed Walker,Brighton,South East,Printer Paper Pack,Office,2,7.99,15.98,9.59,6.39,PayPal,Marketplace
+43,ORD-2024-0030,2024-02-04,CUST-0118,Olivia Foster,Manchester,North West,Camping Lantern,Outdoor,3,32.99,98.97,55.92,43.05,Debit Card,Online
+44,ORD-2024-0031,2024-02-06,CUST-0144,Amelia Shah,Nottingham,Midlands,Hiking Backpack 30L,Outdoor,2,62.99,125.98,92.32,33.66,Credit Card,Online
+45,ORD-2024-0032,2024-02-07,CUST-0131,Hannah Morgan,Liverpool,North West,Filter Coffee Maker,Home & Kitchen,3,79.99,239.97,166.78,73.19,Debit Card,Online
+46,ORD-2024-0033,2024-02-07,CUST-0173,James Evans,Nottingham,Midlands,Cordless Vacuum,Home & Kitchen,1,169.99,169.99,136.84,33.15,PayPal,Online
+47,ORD-2024-0034,2024-02-09,CUST-0015,Jessica Miller,London,London,Adjustable Monitor Arm,Office,1,74.99,74.99,52.49,22.50,Apple Pay,Retail Store
+48,ORD-2024-0034,2024-02-09,CUST-0015,Jessica Miller,London,London,Filter Coffee Maker,Home & Kitchen,3,67.99,203.97,169.90,34.07,Apple Pay,Retail Store
+49,ORD-2024-0034,2024-02-09,CUST-0015,Jessica Miller,London,London,Garden Tool Set,Outdoor,2,42.74,85.48,55.43,30.05,Apple Pay,Retail Store
+50,ORD-2024-0035,2024-02-11,CUST-0044,Lily Lewis,Manchester,North West,USB-C Hub,Electronics,1,44.99,44.99,31.49,13.50,PayPal,Marketplace
+51,ORD-2024-0036,2024-02-11,CUST-0130,Priya Smith,Cardiff,Wales,Hiking Backpack 30L,Outdoor,1,69.99,69.99,46.54,23.45,Gift Card,Online
+52,ORD-2024-0037,2024-02-13,CUST-0057,Mohammed Walker,Brighton,South East,Adjustable Monitor Arm,Office,2,74.99,149.98,102.74,47.24,Debit Card,Phone
+53,ORD-2024-0037,2024-02-13,CUST-0057,Mohammed Walker,Brighton,South East,Portable SSD 1TB,Electronics,1,94.99,94.99,74.57,20.42,Debit Card,Phone
+54,ORD-2024-0037,2024-02-13,CUST-0057,Mohammed Walker,Brighton,South East,LED Desk Lamp,Home & Kitchen,4,25.49,101.96,65.41,36.55,Debit Card,Phone
+55,ORD-2024-0038,2024-02-13,CUST-0108,David Patel,Norwich,East,Foam Roller,Fitness,1,26.99,26.99,14.71,12.28,Credit Card,Phone
+56,ORD-2024-0039,2024-02-15,CUST-0010,Charlotte Martin,Brighton,South East,Garden Tool Set,Outdoor,2,44.99,89.98,55.79,34.19,Apple Pay,Retail Store
+57,ORD-2024-0040,2024-02-15,CUST-0163,Fatima Cooper,Edinburgh,Scotland,Gel Pen Set,Office,2,8.99,17.98,8.00,9.98,PayPal,Online
+58,ORD-2024-0040,2024-02-15,CUST-0163,Fatima Cooper,Edinburgh,Scotland,Foam Roller,Fitness,1,26.99,26.99,14.44,12.55,PayPal,Online
+59,ORD-2024-0041,2024-02-16,CUST-0009,Maya Wilson,Brighton,South East,Noise-Cancelling Headphones,Electronics,3,111.99,335.97,338.50,-2.53,Debit Card,Marketplace
+60,ORD-2024-0042,2024-02-18,CUST-0178,Amelia Martin,London,London,Resistance Band Set,Fitness,1,18.99,18.99,9.21,9.78,PayPal,Online
+61,ORD-2024-0043,2024-02-19,CUST-0120,Noah Wilson,Edinburgh,Scotland,Laptop Stand,Electronics,1,39.99,39.99,23.99,16.00,Apple Pay,Retail Store
+62,ORD-2024-0044,2024-02-20,CUST-0160,Grace Thomas,Leeds,Yorkshire,Hiking Backpack 30L,Outdoor,1,69.99,69.99,46.54,23.45,Debit Card,Online
+63,ORD-2024-0045,2024-02-22,CUST-0020,Samuel Martin,Manchester,North West,Ergonomic Desk Chair,Office,1,199.99,199.99,158.99,41.00,Apple Pay,Online
+64,ORD-2024-0045,2024-02-22,CUST-0020,Samuel Martin,Manchester,North West,Insulated Sports Bottle,Fitness,1,14.99,14.99,6.82,8.17,Apple Pay,Online
+65,ORD-2024-0046,2024-02-26,CUST-0031,James Khan,Bristol,South West,Laptop Stand,Electronics,2,39.99,79.98,45.99,33.99,Debit Card,Online
+66,ORD-2024-0047,2024-02-26,CUST-0077,Samuel Miller,Leeds,Yorkshire,USB-C Hub,Electronics,1,44.99,44.99,28.57,16.42,Credit Card,Online
+67,ORD-2024-0048,2024-02-28,CUST-0012,Leo Robinson,Manchester,North West,Adjustable Dumbbell Set,Fitness,1,84.99,84.99,62.04,22.95,Debit Card,Retail Store
+68,ORD-2024-0049,2024-03-03,CUST-0033,Joseph Smith,Manchester,North West,Adjustable Monitor Arm,Office,1,63.74,63.74,51.59,12.15,Debit Card,Retail Store
+69,ORD-2024-0050,2024-03-04,CUST-0063,Daniel Hughes,Bristol,South West,Waterproof Picnic Blanket,Outdoor,1,26.59,26.59,14.72,11.87,Debit Card,Retail Store
+70,ORD-2024-0050,2024-03-04,CUST-0063,Daniel Hughes,Bristol,South West,Stainless Steel Travel Mug,Outdoor,1,15.99,15.99,10.07,5.92,Debit Card,Retail Store
+71,ORD-2024-0051,2024-03-06,CUST-0037,George Campbell,London,London,Laptop Stand,Electronics,1,39.99,39.99,23.99,16.00,Debit Card,Retail Store
+72,ORD-2024-0052,2024-03-09,CUST-0010,Charlotte Martin,Brighton,South East,Laptop Stand,Electronics,2,39.99,79.98,46.79,33.19,Bank Transfer,Phone
+73,ORD-2024-0053,2024-03-09,CUST-0027,Joseph King,Sheffield,Yorkshire,USB-C Hub,Electronics,2,44.99,89.98,59.39,30.59,Credit Card,Retail Store
+74,ORD-2024-0054,2024-03-11,CUST-0003,Imogen Morris,Glasgow,Scotland,Adjustable Monitor Arm,Office,2,71.24,142.48,100.82,41.66,Apple Pay,Online
+75,ORD-2024-0055,2024-03-11,CUST-0117,Priya Patel,Liverpool,North West,Insulated Sports Bottle,Fitness,1,14.24,14.24,7.14,7.10,Debit Card,Retail Store
+76,ORD-2024-0055,2024-03-11,CUST-0117,Priya Patel,Liverpool,North West,Laptop Stand,Electronics,1,39.99,39.99,23.99,16.00,Debit Card,Retail Store
+77,ORD-2024-0056,2024-03-11,CUST-0164,Layla Lewis,Brighton,South East,Printer Paper Pack,Office,1,7.99,7.99,4.27,3.72,Debit Card,Online
+78,ORD-2024-0057,2024-03-12,CUST-0064,Mohammed Robinson,Leeds,Yorkshire,Cookware Set,Home & Kitchen,3,109.99,329.97,250.78,79.19,Credit Card,Retail Store
+79,ORD-2024-0058,2024-03-12,CUST-0071,Daniel Baker,Southampton,South East,Gel Pen Set,Office,3,8.09,24.27,11.85,12.42,Credit Card,Online
+80,ORD-2024-0058,2024-03-12,CUST-0071,Daniel Baker,Southampton,South East,Ergonomic Desk Chair,Office,1,189.99,189.99,158.44,31.55,Credit Card,Online
+81,ORD-2024-0059,2024-03-13,CUST-0014,Samuel Edwards,Cardiff,Wales,Portable SSD 1TB,Electronics,2,94.99,189.98,147.23,42.75,Credit Card,Online
+82,ORD-2024-0059,2024-03-13,CUST-0014,Samuel Edwards,Cardiff,Wales,Wireless Mouse,Electronics,2,24.99,49.98,30.24,19.74,Credit Card,Online
+83,ORD-2024-0060,2024-03-15,CUST-0023,Emily Davies,Cardiff,Wales,Printer Paper Pack,Office,1,7.19,7.19,4.70,2.49,PayPal,Marketplace
+84,ORD-2024-0061,2024-03-16,CUST-0108,David Patel,Norwich,East,Cookware Set,Home & Kitchen,1,109.99,109.99,80.84,29.15,Credit Card,Online
+85,ORD-2024-0062,2024-03-18,CUST-0175,Lily Collins,Southampton,South East,Hiking Backpack 30L,Outdoor,2,69.99,139.98,96.59,43.39,Credit Card,Retail Store
+86,ORD-2024-0062,2024-03-18,CUST-0175,Lily Collins,Southampton,South East,Stainless Steel Travel Mug,Outdoor,1,19.99,19.99,10.39,9.60,Credit Card,Retail Store
+87,ORD-2024-0063,2024-03-20,CUST-0102,Alice Brown,London,London,Insulated Sports Bottle,Fitness,6,14.99,89.94,40.92,49.02,PayPal,Online
+88,ORD-2024-0063,2024-03-20,CUST-0102,Alice Brown,London,London,Yoga Mat,Fitness,1,24.99,24.99,12.87,12.12,PayPal,Online
+89,ORD-2024-0064,2024-03-22,CUST-0102,Alice Brown,London,London,Stainless Steel Travel Mug,Outdoor,1,19.99,19.99,9.90,10.09,Credit Card,Online
+90,ORD-2024-0065,2024-03-24,CUST-0172,Freddie King,London,London,Cordless Vacuum,Home & Kitchen,2,144.49,288.98,270.88,18.10,Credit Card,Online
+91,ORD-2024-0065,2024-03-24,CUST-0172,Freddie King,London,London,USB-C Hub,Electronics,1,40.49,40.49,28.32,12.17,Credit Card,Online
+92,ORD-2024-0066,2024-03-25,CUST-0005,Olivia Singh,Liverpool,North West,Yoga Mat,Fitness,1,23.74,23.74,12.80,10.94,PayPal,Online
+93,ORD-2024-0067,2024-03-25,CUST-0054,Charlotte Johnson,Sheffield,Yorkshire,Garden Tool Set,Outdoor,1,44.99,44.99,27.89,17.10,Cash,Retail Store
+94,ORD-2024-0068,2024-03-25,CUST-0161,Joseph Patel,Birmingham,Midlands,USB-C Hub,Electronics,1,44.99,44.99,28.57,16.42,Apple Pay,Online
+95,ORD-2024-0069,2024-03-26,CUST-0057,Mohammed Walker,Brighton,South East,Yoga Mat,Fitness,2,24.99,49.98,28.99,20.99,Debit Card,Marketplace
+96,ORD-2024-0070,2024-03-26,CUST-0175,Lily Collins,Southampton,South East,Ergonomic Desk Chair,Office,1,199.99,199.99,158.99,41.00,Credit Card,Online
+97,ORD-2024-0070,2024-03-26,CUST-0175,Lily Collins,Southampton,South East,Cookware Set,Home & Kitchen,1,109.99,109.99,80.84,29.15,Credit Card,Online
+98,ORD-2024-0070,2024-03-26,CUST-0175,Lily Collins,Southampton,South East,Bluetooth Speaker,Electronics,2,49.49,98.98,71.43,27.55,Credit Card,Online
+99,ORD-2024-0071,2024-03-28,CUST-0015,Jessica Miller,London,London,Resistance Band Set,Fitness,1,18.04,18.04,9.16,8.88,Debit Card,Online
+100,ORD-2024-0071,2024-03-28,CUST-0015,Jessica Miller,London,London,Air Fryer,Home & Kitchen,1,89.99,89.99,64.34,25.65,Debit Card,Online
+101,ORD-2024-0072,2024-03-29,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Gel Pen Set,Office,2,8.54,17.08,8.12,8.96,Credit Card,Phone
+102,ORD-2024-0072,2024-03-29,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Full HD Webcam,Electronics,1,59.99,59.99,41.69,18.30,Credit Card,Phone
+103,ORD-2024-0073,2024-03-30,CUST-0093,Ruby Harris,Nottingham,Midlands,LED Desk Lamp,Home & Kitchen,3,25.49,76.47,49.06,27.41,Credit Card,Phone
+104,ORD-2024-0073,2024-03-30,CUST-0093,Ruby Harris,Nottingham,Midlands,Ergonomic Desk Chair,Office,1,199.99,199.99,160.99,39.00,Credit Card,Phone
+105,ORD-2024-0074,2024-03-30,CUST-0144,Amelia Shah,Nottingham,Midlands,Foam Roller,Fitness,1,21.59,21.59,15.55,6.04,Debit Card,Marketplace
+106,ORD-2024-0075,2024-03-31,CUST-0049,Charlotte Phillips,Cambridge,East,Printer Paper Pack,Office,1,7.99,7.99,4.27,3.72,PayPal,Online
+107,ORD-2024-0075,2024-03-31,CUST-0049,Charlotte Phillips,Cambridge,East,Waterproof Picnic Blanket,Outdoor,1,27.99,27.99,14.13,13.86,PayPal,Online
+108,ORD-2024-0075,2024-03-31,CUST-0049,Charlotte Phillips,Cambridge,East,Laptop Stand,Electronics,1,31.99,31.99,22.55,9.44,PayPal,Online
+109,ORD-2024-0076,2024-04-01,CUST-0127,George Thomas,Birmingham,Midlands,Gel Pen Set,Office,1,8.54,8.54,4.19,4.35,Cash,Retail Store
+110,ORD-2024-0077,2024-04-01,CUST-0155,Maya Smith,Leeds,Yorkshire,Garden Tool Set,Outdoor,2,44.99,89.98,53.54,36.44,Credit Card,Online
+111,ORD-2024-0077,2024-04-01,CUST-0155,Maya Smith,Leeds,Yorkshire,Air Fryer,Home & Kitchen,1,85.49,85.49,64.10,21.39,Credit Card,Online
+112,ORD-2024-0078,2024-04-02,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Ergonomic Desk Chair,Office,2,179.99,359.98,315.78,44.20,Apple Pay,Online
+113,ORD-2024-0079,2024-04-02,CUST-0158,Jack Bennett,Manchester,North West,LED Desk Lamp,Home & Kitchen,1,29.99,29.99,17.09,12.90,Gift Card,Retail Store
+114,ORD-2024-0079,2024-04-02,CUST-0158,Jack Bennett,Manchester,North West,Electric Kettle,Home & Kitchen,1,29.74,29.74,22.32,7.42,Gift Card,Retail Store
+115,ORD-2024-0080,2024-04-04,CUST-0092,Ethan Smith,London,London,Adjustable Dumbbell Set,Fitness,1,76.49,76.49,61.36,15.13,Apple Pay,Retail Store
+116,ORD-2024-0080,2024-04-04,CUST-0092,Ethan Smith,London,London,Laptop Stand,Electronics,1,35.99,35.99,23.67,12.32,Apple Pay,Retail Store
+117,ORD-2024-0080,2024-04-04,CUST-0092,Ethan Smith,London,London,Cookware Set,Home & Kitchen,1,109.99,109.99,83.59,26.40,Apple Pay,Retail Store
+118,ORD-2024-0081,2024-04-05,CUST-0039,Oscar Lewis,Cambridge,East,Laptop Stand,Electronics,1,37.99,37.99,25.35,12.64,PayPal,Marketplace
+119,ORD-2024-0082,2024-04-07,CUST-0141,Oscar Khan,Glasgow,Scotland,Bluetooth Speaker,Electronics,2,54.99,109.98,72.04,37.94,Debit Card,Online
+120,ORD-2024-0083,2024-04-09,CUST-0043,Zoe Taylor,Birmingham,Midlands,Insulated Sports Bottle,Fitness,1,14.99,14.99,6.82,8.17,Debit Card,Online
+121,ORD-2024-0084,2024-04-12,CUST-0100,Aisha Clark,Norwich,East,Cookware Set,Home & Kitchen,2,98.99,197.98,173.34,24.64,Debit Card,Marketplace
+122,ORD-2024-0085,2024-04-15,CUST-0075,Sofia Robinson,Manchester,North West,USB-C Hub,Electronics,1,44.99,44.99,28.57,16.42,Debit Card,Online
+123,ORD-2024-0085,2024-04-15,CUST-0075,Sofia Robinson,Manchester,North West,Stainless Steel Travel Mug,Outdoor,1,19.99,19.99,9.90,10.09,Debit Card,Online
+124,ORD-2024-0086,2024-04-17,CUST-0076,Fatima Bennett,Southampton,South East,Printer Paper Pack,Office,1,7.99,7.99,4.47,3.52,Apple Pay,Retail Store
+125,ORD-2024-0086,2024-04-17,CUST-0076,Fatima Bennett,Southampton,South East,Foam Roller,Fitness,2,24.29,48.58,29.80,18.78,Apple Pay,Retail Store
+126,ORD-2024-0087,2024-04-17,CUST-0113,Priya Martin,Cambridge,East,Yoga Mat,Fitness,2,22.49,44.98,25.46,19.52,Debit Card,Online
+127,ORD-2024-0087,2024-04-17,CUST-0113,Priya Martin,Cambridge,East,LED Desk Lamp,Home & Kitchen,1,25.49,25.49,16.10,9.39,Debit Card,Online
+128,ORD-2024-0088,2024-04-19,CUST-0027,Joseph King,Sheffield,Yorkshire,USB-C Hub,Electronics,1,42.74,42.74,29.51,13.23,Debit Card,Retail Store
+129,ORD-2024-0089,2024-04-19,CUST-0141,Oscar Khan,Glasgow,Scotland,Adjustable Monitor Arm,Office,1,71.24,71.24,55.04,16.20,Debit Card,Marketplace
+130,ORD-2024-0090,2024-04-20,CUST-0036,William Khan,Edinburgh,Scotland,Adjustable Dumbbell Set,Fitness,1,84.99,84.99,59.92,25.07,PayPal,Online
+131,ORD-2024-0090,2024-04-20,CUST-0036,William Khan,Edinburgh,Scotland,Notebook Set,Office,3,12.34,37.02,18.40,18.62,PayPal,Online
+132,ORD-2024-0091,2024-04-23,CUST-0004,Olivia Carter,Leeds,Yorkshire,Cordless Vacuum,Home & Kitchen,1,161.49,161.49,140.41,21.08,Debit Card,Retail Store
+133,ORD-2024-0092,2024-04-25,CUST-0088,Ethan Patel,Manchester,North West,Foam Roller,Fitness,1,26.99,26.99,15.11,11.88,Apple Pay,Retail Store
+134,ORD-2024-0093,2024-04-27,CUST-0102,Alice Brown,London,London,Yoga Mat,Fitness,1,24.99,24.99,12.87,12.12,Credit Card,Online
+135,ORD-2024-0094,2024-04-28,CUST-0006,Mohammed Mitchell,Nottingham,Midlands,USB-C Hub,Electronics,2,44.99,89.98,59.39,30.59,Credit Card,Retail Store
+136,ORD-2024-0095,2024-04-28,CUST-0032,Jessica Evans,Birmingham,Midlands,Hiking Backpack 30L,Outdoor,1,55.99,55.99,49.41,6.58,Credit Card,Marketplace
+137,ORD-2024-0096,2024-04-30,CUST-0014,Samuel Edwards,Cardiff,Wales,Cookware Set,Home & Kitchen,2,109.99,219.98,167.18,52.80,Gift Card,Retail Store
+138,ORD-2024-0097,2024-05-01,CUST-0095,Freddie Clark,Southampton,South East,Full HD Webcam,Electronics,2,59.99,119.98,82.19,37.79,Credit Card,Online
+139,ORD-2024-0097,2024-05-01,CUST-0095,Freddie Clark,Southampton,South East,Wireless Mouse,Electronics,1,22.49,22.49,14.98,7.51,Credit Card,Online
+140,ORD-2024-0098,2024-05-01,CUST-0118,Olivia Foster,Manchester,North West,Garden Tool Set,Outdoor,1,42.74,42.74,26.65,16.09,Credit Card,Online
+141,ORD-2024-0099,2024-05-01,CUST-0145,Ethan Campbell,Exeter,South West,Full HD Webcam,Electronics,1,56.99,56.99,42.35,14.64,Credit Card,Retail Store
+142,ORD-2024-0100,2024-05-02,CUST-0012,Leo Robinson,Manchester,North West,Noise-Cancelling Headphones,Electronics,1,132.99,132.99,110.03,22.96,Debit Card,Retail Store
+143,ORD-2024-0101,2024-05-03,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Mechanical Keyboard,Electronics,1,66.49,66.49,46.35,20.14,PayPal,Online
+144,ORD-2024-0101,2024-05-03,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Yoga Mat,Fitness,1,24.99,24.99,12.87,12.12,PayPal,Online
+145,ORD-2024-0102,2024-05-05,CUST-0092,Ethan Smith,London,London,Yoga Mat,Fitness,6,24.99,149.94,77.22,72.72,Apple Pay,Online
+146,ORD-2024-0103,2024-05-07,CUST-0008,William Walker,Glasgow,Scotland,Garden Tool Set,Outdoor,1,44.99,44.99,26.77,18.22,Credit Card,Online
+147,ORD-2024-0104,2024-05-07,CUST-0129,Mohammed Khan,Bristol,South West,Gel Pen Set,Office,1,8.54,8.54,4.53,4.01,Credit Card,Marketplace
+148,ORD-2024-0105,2024-05-09,CUST-0003,Imogen Morris,Glasgow,Scotland,Waterproof Picnic Blanket,Outdoor,2,27.99,55.98,28.27,27.71,Credit Card,Online
+149,ORD-2024-0106,2024-05-10,CUST-0039,Oscar Lewis,Cambridge,East,Camping Lantern,Outdoor,2,32.99,65.98,37.28,28.70,PayPal,Online
+150,ORD-2024-0107,2024-05-12,CUST-0065,Layla Thomas,Brighton,South East,Noise-Cancelling Headphones,Electronics,1,132.99,132.99,106.71,26.28,Credit Card,Online
+151,ORD-2024-0107,2024-05-12,CUST-0065,Layla Thomas,Brighton,South East,Stainless Steel Travel Mug,Outdoor,1,16.99,16.99,9.73,7.26,Credit Card,Online
+152,ORD-2024-0108,2024-05-14,CUST-0001,Imogen Roberts,Bristol,South West,Insulated Sports Bottle,Fitness,2,14.99,29.98,14.39,15.59,Credit Card,Retail Store
+153,ORD-2024-0109,2024-05-14,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Cookware Set,Home & Kitchen,1,104.49,104.49,83.15,21.34,Debit Card,Retail Store
+154,ORD-2024-0109,2024-05-14,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Wireless Mouse,Electronics,1,24.99,24.99,15.74,9.25,Debit Card,Retail Store
+155,ORD-2024-0110,2024-05-14,CUST-0030,Eleanor Morris,Sheffield,Yorkshire,Ergonomic Desk Chair,Office,1,199.99,199.99,158.99,41.00,PayPal,Online
+156,ORD-2024-0111,2024-05-18,CUST-0028,Amelia Roberts,London,London,Printer Paper Pack,Office,1,7.59,7.59,4.44,3.15,Debit Card,Retail Store
+157,ORD-2024-0112,2024-05-18,CUST-0076,Fatima Bennett,Southampton,South East,Cookware Set,Home & Kitchen,3,109.99,329.97,250.78,79.19,Apple Pay,Retail Store
+158,ORD-2024-0113,2024-05-21,CUST-0150,Zoe Harris,Newcastle,North East,USB-C Hub,Electronics,1,44.99,44.99,29.02,15.97,Credit Card,Phone
+159,ORD-2024-0114,2024-05-23,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Yoga Mat,Fitness,1,21.24,21.24,13.19,8.05,Apple Pay,Retail Store
+160,ORD-2024-0114,2024-05-23,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Full HD Webcam,Electronics,1,59.99,59.99,42.59,17.40,Apple Pay,Retail Store
+161,ORD-2024-0115,2024-05-25,CUST-0031,James Khan,Bristol,South West,USB-C Hub,Electronics,2,44.99,89.98,59.39,30.59,Debit Card,Retail Store
+162,ORD-2024-0116,2024-05-26,CUST-0041,Emily Thomas,Liverpool,North West,LED Desk Lamp,Home & Kitchen,1,29.99,29.99,17.09,12.90,Debit Card,Retail Store
+163,ORD-2024-0117,2024-05-27,CUST-0087,Olivia Clark,London,London,Foam Roller,Fitness,2,26.99,53.98,30.23,23.75,Debit Card,Retail Store
+164,ORD-2024-0118,2024-05-28,CUST-0080,Mohammed Taylor,Brighton,South East,Cookware Set,Home & Kitchen,3,98.99,296.97,248.14,48.83,Debit Card,Retail Store
+165,ORD-2024-0119,2024-05-29,CUST-0025,Imogen Carter,Norwich,East,Stainless Steel Travel Mug,Outdoor,1,19.99,19.99,9.90,10.09,Apple Pay,Online
+166,ORD-2024-0120,2024-05-29,CUST-0033,Joseph Smith,Manchester,North West,Wireless Mouse,Electronics,1,19.99,19.99,15.34,4.65,Apple Pay,Retail Store
+167,ORD-2024-0120,2024-05-29,CUST-0033,Joseph Smith,Manchester,North West,Filter Coffee Maker,Home & Kitchen,1,79.99,79.99,57.59,22.40,Apple Pay,Retail Store
+168,ORD-2024-0121,2024-05-30,CUST-0028,Amelia Roberts,London,London,Laptop Stand,Electronics,1,39.99,39.99,23.99,16.00,Debit Card,Retail Store
+169,ORD-2024-0122,2024-05-31,CUST-0014,Samuel Edwards,Cardiff,Wales,Ergonomic Desk Chair,Office,2,189.99,379.98,326.38,53.60,Cash,Retail Store
+170,ORD-2024-0122,2024-05-31,CUST-0014,Samuel Edwards,Cardiff,Wales,Notebook Set,Office,2,12.99,25.98,12.99,12.99,Cash,Retail Store
+171,ORD-2024-0123,2024-05-31,CUST-0086,Aisha Hall,Glasgow,Scotland,Air Fryer,Home & Kitchen,1,89.99,89.99,70.19,19.80,Credit Card,Marketplace
+172,ORD-2024-0124,2024-06-02,CUST-0003,Imogen Morris,Glasgow,Scotland,USB-C Hub,Electronics,2,44.99,89.98,59.39,30.59,Cash,Retail Store
+173,ORD-2024-0125,2024-06-02,CUST-0027,Joseph King,Sheffield,Yorkshire,Adjustable Monitor Arm,Office,1,71.24,71.24,52.19,19.05,Credit Card,Retail Store
+174,ORD-2024-0126,2024-06-04,CUST-0049,Charlotte Phillips,Cambridge,East,Full HD Webcam,Electronics,1,50.99,50.99,41.87,9.12,Apple Pay,Retail Store
+175,ORD-2024-0126,2024-06-04,CUST-0049,Charlotte Phillips,Cambridge,East,Notebook Set,Office,2,12.99,25.98,12.99,12.99,Apple Pay,Retail Store
+176,ORD-2024-0127,2024-06-04,CUST-0114,Chloe Green,Bristol,South West,Adjustable Dumbbell Set,Fitness,3,84.99,254.97,179.75,75.22,Credit Card,Online
+177,ORD-2024-0128,2024-06-04,CUST-0123,Harry Thomas,Nottingham,Midlands,Notebook Set,Office,3,11.04,33.12,19.02,14.10,Debit Card,Retail Store
+178,ORD-2024-0129,2024-06-04,CUST-0138,Lucas Khan,Liverpool,North West,Insulated Sports Bottle,Fitness,1,14.99,14.99,6.82,8.17,PayPal,Online
+179,ORD-2024-0130,2024-06-05,CUST-0047,Alice Phillips,London,London,USB-C Hub,Electronics,1,44.99,44.99,28.57,16.42,Credit Card,Online
+180,ORD-2024-0130,2024-06-05,CUST-0047,Alice Phillips,London,London,LED Desk Lamp,Home & Kitchen,1,25.49,25.49,16.10,9.39,Credit Card,Online
+181,ORD-2024-0130,2024-06-05,CUST-0047,Alice Phillips,London,London,Electric Kettle,Home & Kitchen,1,34.99,34.99,21.87,13.12,Credit Card,Online
+182,ORD-2024-0131,2024-06-05,CUST-0142,Oliver Scott,Birmingham,Midlands,Printer Paper Pack,Office,2,7.99,15.98,8.95,7.03,Debit Card,Retail Store
+183,ORD-2024-0132,2024-06-06,CUST-0004,Olivia Carter,Leeds,Yorkshire,LED Desk Lamp,Home & Kitchen,2,29.99,59.98,32.69,27.29,Debit Card,Online
+184,ORD-2024-0133,2024-06-08,CUST-0136,Sofia Taylor,Nottingham,Midlands,Electric Kettle,Home & Kitchen,1,34.99,34.99,21.87,13.12,Credit Card,Online
+185,ORD-2024-0134,2024-06-09,CUST-0070,Ethan King,Leeds,Yorkshire,Gel Pen Set,Office,1,8.54,8.54,4.19,4.35,Debit Card,Retail Store
+186,ORD-2024-0134,2024-06-09,CUST-0070,Ethan King,Leeds,Yorkshire,Filter Coffee Maker,Home & Kitchen,1,71.99,71.99,56.95,15.04,Debit Card,Retail Store
+187,ORD-2024-0135,2024-06-11,CUST-0152,Zoe Lewis,Birmingham,Midlands,Wireless Mouse,Electronics,6,24.99,149.94,90.71,59.23,Credit Card,Online
+188,ORD-2024-0135,2024-06-11,CUST-0152,Zoe Lewis,Birmingham,Midlands,Two-Drawer Filing Cabinet,Office,1,107.99,107.99,88.73,19.26,Credit Card,Online
+189,ORD-2024-0136,2024-06-12,CUST-0124,Freddie Scott,Sheffield,Yorkshire,Insulated Sports Bottle,Fitness,6,14.99,89.94,46.77,43.17,Debit Card,Marketplace
+190,ORD-2024-0137,2024-06-13,CUST-0010,Charlotte Martin,Brighton,South East,Full HD Webcam,Electronics,3,59.99,179.97,123.28,56.69,Credit Card,Online
+191,ORD-2024-0138,2024-06-13,CUST-0030,Eleanor Morris,Sheffield,Yorkshire,Resistance Band Set,Fitness,2,18.99,37.98,19.37,18.61,Apple Pay,Retail Store
+192,ORD-2024-0139,2024-06-13,CUST-0048,Maya Green,Belfast,Northern Ireland,USB-C Hub,Electronics,4,40.49,161.96,117.33,44.63,Cash,Retail Store
+193,ORD-2024-0140,2024-06-13,CUST-0173,James Evans,Nottingham,Midlands,Full HD Webcam,Electronics,2,59.99,119.98,85.19,34.79,Debit Card,Retail Store
+194,ORD-2024-0141,2024-06-14,CUST-0044,Lily Lewis,Manchester,North West,Electric Kettle,Home & Kitchen,2,33.24,66.48,43.54,22.94,PayPal,Online
+195,ORD-2024-0142,2024-06-16,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Wireless Mouse,Electronics,1,21.24,21.24,14.91,6.33,Apple Pay,Online
+196,ORD-2024-0143,2024-06-18,CUST-0034,Emily Edwards,Liverpool,North West,LED Desk Lamp,Home & Kitchen,1,29.99,29.99,16.34,13.65,Debit Card,Online
+197,ORD-2024-0144,2024-06-19,CUST-0011,Thomas Ahmed,Liverpool,North West,Garden Tool Set,Outdoor,2,44.99,89.98,53.54,36.44,Debit Card,Online
+198,ORD-2024-0144,2024-06-19,CUST-0011,Thomas Ahmed,Liverpool,North West,Resistance Band Set,Fitness,1,18.99,18.99,9.21,9.78,Debit Card,Online
+199,ORD-2024-0145,2024-06-21,CUST-0118,Olivia Foster,Manchester,North West,Mechanical Keyboard,Electronics,1,69.99,69.99,46.54,23.45,Debit Card,Online
+200,ORD-2024-0146,2024-06-24,CUST-0027,Joseph King,Sheffield,Yorkshire,Full HD Webcam,Electronics,1,56.99,56.99,40.93,16.06,Debit Card,Online
+201,ORD-2024-0147,2024-06-25,CUST-0175,Lily Collins,Southampton,South East,Mechanical Keyboard,Electronics,1,69.99,69.99,47.24,22.75,Bank Transfer,Phone
+202,ORD-2024-0148,2024-06-26,CUST-0136,Sofia Taylor,Nottingham,Midlands,Bluetooth Speaker,Electronics,2,54.99,109.98,79.19,30.79,Apple Pay,Marketplace
+203,ORD-2024-0148,2024-06-26,CUST-0136,Sofia Taylor,Nottingham,Midlands,Electric Kettle,Home & Kitchen,3,34.99,104.97,72.43,32.54,Apple Pay,Marketplace
+204,ORD-2024-0148,2024-06-26,CUST-0136,Sofia Taylor,Nottingham,Midlands,Adjustable Monitor Arm,Office,1,74.99,74.99,55.49,19.50,Apple Pay,Marketplace
+205,ORD-2024-0149,2024-06-27,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Adjustable Dumbbell Set,Fitness,2,84.99,169.98,130.88,39.10,Credit Card,Marketplace
+206,ORD-2024-0150,2024-06-27,CUST-0117,Priya Patel,Liverpool,North West,Gel Pen Set,Office,1,8.99,8.99,4.00,4.99,PayPal,Online
+207,ORD-2024-0151,2024-07-02,CUST-0158,Jack Bennett,Manchester,North West,Portable SSD 1TB,Electronics,2,94.99,189.98,147.23,42.75,PayPal,Online
+208,ORD-2024-0151,2024-07-02,CUST-0158,Jack Bennett,Manchester,North West,Notebook Set,Office,3,12.99,38.97,18.51,20.46,PayPal,Online
+209,ORD-2024-0152,2024-07-03,CUST-0116,Fatima Hall,London,London,Gel Pen Set,Office,1,8.99,8.99,4.23,4.76,Apple Pay,Retail Store
+210,ORD-2024-0152,2024-07-03,CUST-0116,Fatima Hall,London,London,Hiking Backpack 30L,Outdoor,2,69.99,139.98,96.59,43.39,Apple Pay,Retail Store
+211,ORD-2024-0153,2024-07-07,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Full HD Webcam,Electronics,2,53.99,107.98,81.53,26.45,Debit Card,Online
+212,ORD-2024-0154,2024-07-12,CUST-0009,Maya Wilson,Brighton,South East,Foam Roller,Fitness,1,22.94,22.94,14.22,8.72,Credit Card,Online
+213,ORD-2024-0154,2024-07-12,CUST-0009,Maya Wilson,Brighton,South East,Hiking Backpack 30L,Outdoor,2,66.49,132.98,92.70,40.28,Credit Card,Online
+214,ORD-2024-0155,2024-07-12,CUST-0151,Chloe Smith,Cardiff,Wales,USB-C Hub,Electronics,1,44.99,44.99,28.57,16.42,PayPal,Online
+215,ORD-2024-0155,2024-07-12,CUST-0151,Chloe Smith,Cardiff,Wales,Filter Coffee Maker,Home & Kitchen,2,75.99,151.98,110.75,41.23,PayPal,Online
+216,ORD-2024-0155,2024-07-12,CUST-0151,Chloe Smith,Cardiff,Wales,Printer Paper Pack,Office,1,7.99,7.99,4.27,3.72,PayPal,Online
+217,ORD-2024-0156,2024-07-16,CUST-0027,Joseph King,Sheffield,Yorkshire,LED Desk Lamp,Home & Kitchen,1,29.99,29.99,17.09,12.90,Apple Pay,Retail Store
+218,ORD-2024-0156,2024-07-16,CUST-0027,Joseph King,Sheffield,Yorkshire,Ergonomic Desk Chair,Office,2,199.99,399.98,327.98,72.00,Apple Pay,Retail Store
+219,ORD-2024-0157,2024-07-19,CUST-0048,Maya Green,Belfast,Northern Ireland,Wireless Mouse,Electronics,1,24.99,24.99,15.74,9.25,Debit Card,Retail Store
+220,ORD-2024-0158,2024-07-19,CUST-0164,Layla Lewis,Brighton,South East,Printer Paper Pack,Office,1,7.19,7.19,4.23,2.96,Credit Card,Online
+221,ORD-2024-0158,2024-07-19,CUST-0164,Layla Lewis,Brighton,South East,Adjustable Monitor Arm,Office,1,74.99,74.99,50.62,24.37,Credit Card,Online
+222,ORD-2024-0158,2024-07-19,CUST-0164,Layla Lewis,Brighton,South East,Garden Tool Set,Outdoor,1,42.74,42.74,26.65,16.09,Credit Card,Online
+223,ORD-2024-0159,2024-07-22,CUST-0025,Imogen Carter,Norwich,East,Gel Pen Set,Office,2,8.09,16.18,8.31,7.87,Debit Card,Retail Store
+224,ORD-2024-0160,2024-07-23,CUST-0032,Jessica Evans,Birmingham,Midlands,Stainless Steel Travel Mug,Outdoor,1,17.99,17.99,9.79,8.20,PayPal,Online
+225,ORD-2024-0161,2024-07-23,CUST-0174,Amelia Morris,Manchester,North West,Bluetooth Speaker,Electronics,2,54.99,109.98,79.19,30.79,PayPal,Marketplace
+226,ORD-2024-0162,2024-07-24,CUST-0011,Thomas Ahmed,Liverpool,North West,Waterproof Picnic Blanket,Outdoor,2,27.99,55.98,28.27,27.71,PayPal,Online
+227,ORD-2024-0163,2024-07-24,CUST-0014,Samuel Edwards,Cardiff,Wales,Stainless Steel Travel Mug,Outdoor,2,19.99,39.98,19.79,20.19,Credit Card,Online
+228,ORD-2024-0164,2024-07-25,CUST-0001,Imogen Roberts,Bristol,South West,Printer Paper Pack,Office,1,6.79,6.79,4.38,2.41,Cash,Retail Store
+229,ORD-2024-0165,2024-07-25,CUST-0001,Imogen Roberts,Bristol,South West,Bluetooth Speaker,Electronics,1,52.24,52.24,35.87,16.37,PayPal,Online
+230,ORD-2024-0166,2024-07-25,CUST-0142,Oliver Scott,Birmingham,Midlands,Two-Drawer Filing Cabinet,Office,2,119.99,239.98,184.78,55.20,Cash,Retail Store
+231,ORD-2024-0167,2024-07-25,CUST-0179,Aisha Evans,Nottingham,Midlands,Insulated Sports Bottle,Fitness,1,14.99,14.99,6.82,8.17,Credit Card,Online
+232,ORD-2024-0168,2024-07-27,CUST-0011,Thomas Ahmed,Liverpool,North West,Gel Pen Set,Office,2,8.99,17.98,8.00,9.98,Credit Card,Online
+233,ORD-2024-0168,2024-07-27,CUST-0011,Thomas Ahmed,Liverpool,North West,Wireless Mouse,Electronics,1,24.99,24.99,15.12,9.87,Credit Card,Online
+234,ORD-2024-0168,2024-07-27,CUST-0011,Thomas Ahmed,Liverpool,North West,Air Fryer,Home & Kitchen,1,89.99,89.99,64.34,25.65,Credit Card,Online
+235,ORD-2024-0169,2024-07-28,CUST-0003,Imogen Morris,Glasgow,Scotland,Waterproof Picnic Blanket,Outdoor,1,27.99,27.99,14.13,13.86,Credit Card,Online
+236,ORD-2024-0170,2024-07-29,CUST-0046,Imogen Green,London,London,Printer Paper Pack,Office,2,7.59,15.18,8.88,6.30,Credit Card,Retail Store
+237,ORD-2024-0170,2024-07-29,CUST-0046,Imogen Green,London,London,USB-C Hub,Electronics,2,44.99,89.98,59.39,30.59,Credit Card,Retail Store
+238,ORD-2024-0170,2024-07-29,CUST-0046,Imogen Green,London,London,Waterproof Picnic Blanket,Outdoor,2,27.99,55.98,29.67,26.31,Credit Card,Retail Store
+239,ORD-2024-0171,2024-07-29,CUST-0081,James Foster,Southampton,South East,USB-C Hub,Electronics,1,44.99,44.99,29.69,15.30,Apple Pay,Retail Store
+240,ORD-2024-0172,2024-07-30,CUST-0004,Olivia Carter,Leeds,Yorkshire,Printer Paper Pack,Office,2,7.59,15.18,8.88,6.30,Debit Card,Retail Store
+241,ORD-2024-0173,2024-07-30,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Adjustable Monitor Arm,Office,1,74.99,74.99,50.62,24.37,Credit Card,Online
+242,ORD-2024-0173,2024-07-30,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Garden Tool Set,Outdoor,1,44.99,44.99,26.77,18.22,Credit Card,Online
+243,ORD-2024-0174,2024-07-30,CUST-0122,Charlotte Edwards,Birmingham,Midlands,Yoga Mat,Fitness,2,24.99,49.98,26.99,22.99,Debit Card,Retail Store
+244,ORD-2024-0175,2024-07-31,CUST-0004,Olivia Carter,Leeds,Yorkshire,Printer Paper Pack,Office,1,7.99,7.99,4.47,3.52,Cash,Retail Store
+245,ORD-2024-0176,2024-07-31,CUST-0043,Zoe Taylor,Birmingham,Midlands,Printer Paper Pack,Office,3,7.99,23.97,14.38,9.59,PayPal,Marketplace
+246,ORD-2024-0176,2024-07-31,CUST-0043,Zoe Taylor,Birmingham,Midlands,Resistance Band Set,Fitness,1,18.04,18.04,10.33,7.71,PayPal,Marketplace
+247,ORD-2024-0177,2024-08-02,CUST-0023,Emily Davies,Cardiff,Wales,Yoga Mat,Fitness,1,23.74,23.74,12.80,10.94,PayPal,Online
+248,ORD-2024-0177,2024-08-02,CUST-0023,Emily Davies,Cardiff,Wales,Bluetooth Speaker,Electronics,1,54.99,54.99,36.02,18.97,PayPal,Online
+249,ORD-2024-0177,2024-08-02,CUST-0023,Emily Davies,Cardiff,Wales,Stainless Steel Travel Mug,Outdoor,2,19.99,39.98,19.79,20.19,PayPal,Online
+250,ORD-2024-0178,2024-08-04,CUST-0170,Leo Cooper,London,London,Electric Kettle,Home & Kitchen,1,34.99,34.99,21.87,13.12,PayPal,Online
+251,ORD-2024-0178,2024-08-04,CUST-0170,Leo Cooper,London,London,Gel Pen Set,Office,1,8.99,8.99,4.00,4.99,PayPal,Online
+252,ORD-2024-0179,2024-08-07,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Wireless Mouse,Electronics,2,24.99,49.98,31.49,18.49,Debit Card,Retail Store
+253,ORD-2024-0179,2024-08-07,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Air Fryer,Home & Kitchen,1,89.99,89.99,66.59,23.40,Debit Card,Retail Store
+254,ORD-2024-0180,2024-08-07,CUST-0078,Grace Scott,London,London,Portable SSD 1TB,Electronics,3,94.99,284.97,223.70,61.27,Credit Card,Phone
+255,ORD-2024-0180,2024-08-07,CUST-0078,Grace Scott,London,London,Two-Drawer Filing Cabinet,Office,2,119.99,239.98,181.18,58.80,Credit Card,Phone
+256,ORD-2024-0181,2024-08-08,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Adjustable Dumbbell Set,Fitness,1,84.99,84.99,62.04,22.95,Cash,Retail Store
+257,ORD-2024-0182,2024-08-12,CUST-0009,Maya Wilson,Brighton,South East,USB-C Hub,Electronics,2,44.99,89.98,59.39,30.59,Debit Card,Retail Store
+258,ORD-2024-0183,2024-08-13,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Yoga Mat,Fitness,1,24.99,24.99,13.49,11.50,Cash,Retail Store
+259,ORD-2024-0183,2024-08-13,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Filter Coffee Maker,Home & Kitchen,1,67.99,67.99,56.63,11.36,Cash,Retail Store
+260,ORD-2024-0184,2024-08-13,CUST-0087,Olivia Clark,London,London,Laptop Stand,Electronics,1,37.99,37.99,25.35,12.64,Credit Card,Marketplace
+261,ORD-2024-0185,2024-08-14,CUST-0155,Maya Smith,Leeds,Yorkshire,Gel Pen Set,Office,1,8.99,8.99,4.00,4.99,Debit Card,Online
+262,ORD-2024-0186,2024-08-16,CUST-0015,Jessica Miller,London,London,Portable SSD 1TB,Electronics,1,94.99,94.99,73.62,21.37,Apple Pay,Online
+263,ORD-2024-0186,2024-08-16,CUST-0015,Jessica Miller,London,London,Notebook Set,Office,1,12.99,12.99,6.17,6.82,Apple Pay,Online
+264,ORD-2024-0187,2024-08-17,CUST-0047,Alice Phillips,London,London,Resistance Band Set,Fitness,1,18.99,18.99,9.21,9.78,Debit Card,Online
+265,ORD-2024-0188,2024-08-19,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Gel Pen Set,Office,1,8.09,8.09,3.95,4.14,Gift Card,Online
+266,ORD-2024-0189,2024-08-19,CUST-0099,William Green,Birmingham,Midlands,Insulated Sports Bottle,Fitness,1,14.24,14.24,6.78,7.46,Apple Pay,Online
+267,ORD-2024-0190,2024-08-21,CUST-0016,Alice Patel,Manchester,North West,Foam Roller,Fitness,3,26.99,80.97,44.13,36.84,Credit Card,Phone
+268,ORD-2024-0191,2024-08-23,CUST-0004,Olivia Carter,Leeds,Yorkshire,Stainless Steel Travel Mug,Outdoor,1,17.99,17.99,9.79,8.20,Credit Card,Online
+269,ORD-2024-0192,2024-08-24,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Air Fryer,Home & Kitchen,2,80.99,161.98,131.75,30.23,Debit Card,Retail Store
+270,ORD-2024-0193,2024-08-25,CUST-0016,Alice Patel,Manchester,North West,Electric Kettle,Home & Kitchen,1,33.24,33.24,23.93,9.31,PayPal,Marketplace
+271,ORD-2024-0193,2024-08-25,CUST-0016,Alice Patel,Manchester,North West,Air Fryer,Home & Kitchen,1,89.99,89.99,70.19,19.80,PayPal,Marketplace
+272,ORD-2024-0194,2024-08-25,CUST-0023,Emily Davies,Cardiff,Wales,Noise-Cancelling Headphones,Electronics,2,139.99,279.98,214.18,65.80,Gift Card,Online
+273,ORD-2024-0195,2024-08-26,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Mechanical Keyboard,Electronics,2,69.99,139.98,93.09,46.89,PayPal,Online
+274,ORD-2024-0196,2024-08-26,CUST-0065,Layla Thomas,Brighton,South East,Electric Kettle,Home & Kitchen,1,34.99,34.99,22.22,12.77,Debit Card,Phone
+275,ORD-2024-0196,2024-08-26,CUST-0065,Layla Thomas,Brighton,South East,Gel Pen Set,Office,1,8.99,8.99,4.09,4.90,Debit Card,Phone
+276,ORD-2024-0197,2024-08-27,CUST-0004,Olivia Carter,Leeds,Yorkshire,Laptop Stand,Electronics,1,37.99,37.99,22.88,15.11,Credit Card,Online
+277,ORD-2024-0198,2024-08-29,CUST-0014,Samuel Edwards,Cardiff,Wales,Full HD Webcam,Electronics,1,56.99,56.99,40.93,16.06,PayPal,Online
+278,ORD-2024-0198,2024-08-29,CUST-0014,Samuel Edwards,Cardiff,Wales,Laptop Stand,Electronics,2,39.99,79.98,45.99,33.99,PayPal,Online
+279,ORD-2024-0199,2024-08-31,CUST-0092,Ethan Smith,London,London,Adjustable Monitor Arm,Office,1,74.99,74.99,52.49,22.50,Cash,Retail Store
+280,ORD-2024-0200,2024-08-31,CUST-0103,Zoe Phillips,Newcastle,North East,Gel Pen Set,Office,2,8.54,17.08,7.95,9.13,PayPal,Online
+281,ORD-2024-0200,2024-08-31,CUST-0103,Zoe Phillips,Newcastle,North East,Yoga Mat,Fitness,1,21.24,21.24,12.66,8.58,PayPal,Online
+282,ORD-2024-0200,2024-08-31,CUST-0103,Zoe Phillips,Newcastle,North East,Printer Paper Pack,Office,2,6.39,12.78,8.37,4.41,PayPal,Online
+283,ORD-2024-0201,2024-09-02,CUST-0146,Joseph Clark,Manchester,North West,Printer Paper Pack,Office,2,7.59,15.18,8.66,6.52,Credit Card,Phone
+284,ORD-2024-0201,2024-09-02,CUST-0146,Joseph Clark,Manchester,North West,Portable SSD 1TB,Electronics,1,90.24,90.24,74.26,15.98,Credit Card,Phone
+285,ORD-2024-0201,2024-09-02,CUST-0146,Joseph Clark,Manchester,North West,Mechanical Keyboard,Electronics,3,69.99,209.97,141.73,68.24,Credit Card,Phone
+286,ORD-2024-0202,2024-09-04,CUST-0085,Daniel Robinson,Cardiff,Wales,Portable SSD 1TB,Electronics,1,94.99,94.99,73.62,21.37,Credit Card,Online
+287,ORD-2024-0203,2024-09-06,CUST-0157,Maya Mitchell,London,London,Notebook Set,Office,1,12.99,12.99,6.17,6.82,Apple Pay,Online
+288,ORD-2024-0203,2024-09-06,CUST-0157,Maya Mitchell,London,London,Garden Tool Set,Outdoor,1,44.99,44.99,26.77,18.22,Apple Pay,Online
+289,ORD-2024-0204,2024-09-07,CUST-0007,Zara Singh,Southampton,South East,Gel Pen Set,Office,6,7.19,43.14,23.84,19.30,Credit Card,Phone
+290,ORD-2024-0204,2024-09-07,CUST-0007,Zara Singh,Southampton,South East,Resistance Band Set,Fitness,2,18.99,37.98,18.80,19.18,Credit Card,Phone
+291,ORD-2024-0204,2024-09-07,CUST-0007,Zara Singh,Southampton,South East,Foam Roller,Fitness,5,26.99,134.95,73.55,61.40,Credit Card,Phone
+292,ORD-2024-0205,2024-09-07,CUST-0107,Thomas King,Newcastle,North East,Portable SSD 1TB,Electronics,1,90.24,90.24,73.36,16.88,Debit Card,Online
+293,ORD-2024-0206,2024-09-08,CUST-0001,Imogen Roberts,Bristol,South West,Foam Roller,Fitness,1,26.99,26.99,14.44,12.55,Debit Card,Online
+294,ORD-2024-0206,2024-09-08,CUST-0001,Imogen Roberts,Bristol,South West,Printer Paper Pack,Office,2,7.99,15.98,8.55,7.43,Debit Card,Online
+295,ORD-2024-0207,2024-09-10,CUST-0003,Imogen Morris,Glasgow,Scotland,Portable SSD 1TB,Electronics,1,94.99,94.99,79.79,15.20,PayPal,Marketplace
+296,ORD-2024-0208,2024-09-10,CUST-0081,James Foster,Southampton,South East,Full HD Webcam,Electronics,1,47.99,47.99,41.63,6.36,Credit Card,Retail Store
+297,ORD-2024-0209,2024-09-11,CUST-0092,Ethan Smith,London,London,Electric Kettle,Home & Kitchen,2,34.99,69.98,48.29,21.69,PayPal,Marketplace
+298,ORD-2024-0210,2024-09-11,CUST-0110,Jack Ahmed,Cardiff,Wales,Insulated Sports Bottle,Fitness,2,13.49,26.98,13.48,13.50,PayPal,Online
+299,ORD-2024-0210,2024-09-11,CUST-0110,Jack Ahmed,Cardiff,Wales,Printer Paper Pack,Office,1,7.99,7.99,4.27,3.72,PayPal,Online
+300,ORD-2024-0211,2024-09-11,CUST-0156,Lucas Wilson,Brighton,South East,Gel Pen Set,Office,1,8.99,8.99,4.23,4.76,Credit Card,Retail Store
+301,ORD-2024-0212,2024-09-12,CUST-0044,Lily Lewis,Manchester,North West,Hiking Backpack 30L,Outdoor,3,66.49,199.47,152.02,47.45,Debit Card,Marketplace
+302,ORD-2024-0213,2024-09-12,CUST-0046,Imogen Green,London,London,Garden Tool Set,Outdoor,2,40.49,80.98,55.07,25.91,Credit Card,Retail Store
+303,ORD-2024-0214,2024-09-12,CUST-0058,Isaac Carter,Cambridge,East,Bluetooth Speaker,Electronics,3,46.74,140.22,108.10,32.12,Credit Card,Phone
+304,ORD-2024-0215,2024-09-13,CUST-0028,Amelia Roberts,London,London,Resistance Band Set,Fitness,1,17.09,17.09,9.11,7.98,Credit Card,Online
+305,ORD-2024-0216,2024-09-14,CUST-0043,Zoe Taylor,Birmingham,Midlands,Adjustable Monitor Arm,Office,1,67.49,67.49,50.21,17.28,PayPal,Online
+306,ORD-2024-0216,2024-09-14,CUST-0043,Zoe Taylor,Birmingham,Midlands,Bluetooth Speaker,Electronics,2,52.24,104.48,71.73,32.75,PayPal,Online
+307,ORD-2024-0217,2024-09-14,CUST-0043,Zoe Taylor,Birmingham,Midlands,USB-C Hub,Electronics,1,44.99,44.99,31.49,13.50,Apple Pay,Marketplace
+308,ORD-2024-0217,2024-09-14,CUST-0043,Zoe Taylor,Birmingham,Midlands,Laptop Stand,Electronics,2,39.99,79.98,51.19,28.79,Apple Pay,Marketplace
+309,ORD-2024-0218,2024-09-15,CUST-0129,Mohammed Khan,Bristol,South West,Laptop Stand,Electronics,2,39.99,79.98,47.99,31.99,Debit Card,Retail Store
+310,ORD-2024-0219,2024-09-16,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Air Fryer,Home & Kitchen,1,89.99,89.99,64.34,25.65,PayPal,Online
+311,ORD-2024-0219,2024-09-16,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,LED Desk Lamp,Home & Kitchen,1,29.99,29.99,16.34,13.65,PayPal,Online
+312,ORD-2024-0219,2024-09-16,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Bluetooth Speaker,Electronics,1,46.74,46.74,35.56,11.18,PayPal,Online
+313,ORD-2024-0220,2024-09-17,CUST-0046,Imogen Green,London,London,Printer Paper Pack,Office,2,7.59,15.18,8.51,6.67,Debit Card,Online
+314,ORD-2024-0220,2024-09-17,CUST-0046,Imogen Green,London,London,Adjustable Monitor Arm,Office,1,74.99,74.99,50.62,24.37,Debit Card,Online
+315,ORD-2024-0221,2024-09-18,CUST-0034,Emily Edwards,Liverpool,North West,USB-C Hub,Electronics,2,44.99,89.98,57.14,32.84,PayPal,Online
+316,ORD-2024-0222,2024-09-18,CUST-0080,Mohammed Taylor,Brighton,South East,Bluetooth Speaker,Electronics,1,54.99,54.99,36.02,18.97,Credit Card,Online
+317,ORD-2024-0223,2024-09-20,CUST-0004,Olivia Carter,Leeds,Yorkshire,Stainless Steel Travel Mug,Outdoor,1,19.99,19.99,9.90,10.09,Debit Card,Online
+318,ORD-2024-0224,2024-09-20,CUST-0044,Lily Lewis,Manchester,North West,Resistance Band Set,Fitness,2,18.99,37.98,19.37,18.61,Cash,Retail Store
+319,ORD-2024-0224,2024-09-20,CUST-0044,Lily Lewis,Manchester,North West,Full HD Webcam,Electronics,1,56.99,56.99,42.35,14.64,Cash,Retail Store
+320,ORD-2024-0225,2024-09-20,CUST-0075,Sofia Robinson,Manchester,North West,Resistance Band Set,Fitness,3,18.99,56.97,29.05,27.92,Debit Card,Retail Store
+321,ORD-2024-0226,2024-09-21,CUST-0148,Mohammed Hall,Bristol,South West,Mechanical Keyboard,Electronics,3,69.99,209.97,144.88,65.09,Gift Card,Retail Store
+322,ORD-2024-0227,2024-09-23,CUST-0040,Ethan Hall,Brighton,South East,Adjustable Monitor Arm,Office,1,74.99,74.99,50.62,24.37,PayPal,Online
+323,ORD-2024-0228,2024-09-25,CUST-0051,Jack Johnson,London,London,Camping Lantern,Outdoor,1,32.99,32.99,18.64,14.35,Credit Card,Online
+324,ORD-2024-0228,2024-09-25,CUST-0051,Jack Johnson,London,London,Stainless Steel Travel Mug,Outdoor,1,17.99,17.99,9.79,8.20,Credit Card,Online
+325,ORD-2024-0229,2024-09-25,CUST-0164,Layla Lewis,Brighton,South East,Camping Lantern,Outdoor,1,31.34,31.34,19.33,12.01,Debit Card,Retail Store
+326,ORD-2024-0230,2024-09-27,CUST-0102,Alice Brown,London,London,USB-C Hub,Electronics,3,38.24,114.72,92.05,22.67,Credit Card,Marketplace
+327,ORD-2024-0230,2024-09-27,CUST-0102,Alice Brown,London,London,Cookware Set,Home & Kitchen,3,109.99,329.97,263.98,65.99,Credit Card,Marketplace
+328,ORD-2024-0231,2024-09-28,CUST-0015,Jessica Miller,London,London,Wireless Mouse,Electronics,2,24.99,49.98,30.24,19.74,Gift Card,Online
+329,ORD-2024-0231,2024-09-28,CUST-0015,Jessica Miller,London,London,Garden Tool Set,Outdoor,2,42.74,85.48,53.29,32.19,Gift Card,Online
+330,ORD-2024-0232,2024-09-28,CUST-0028,Amelia Roberts,London,London,Air Fryer,Home & Kitchen,1,89.99,89.99,64.34,25.65,Credit Card,Online
+331,ORD-2024-0233,2024-09-28,CUST-0039,Oscar Lewis,Cambridge,East,Noise-Cancelling Headphones,Electronics,1,132.99,132.99,106.71,26.28,Credit Card,Online
+332,ORD-2024-0234,2024-09-28,CUST-0054,Charlotte Johnson,Sheffield,Yorkshire,Notebook Set,Office,2,12.34,24.68,12.27,12.41,Credit Card,Online
+333,ORD-2024-0235,2024-09-28,CUST-0080,Mohammed Taylor,Brighton,South East,USB-C Hub,Electronics,3,38.24,114.72,87.46,27.26,Cash,Retail Store
+334,ORD-2024-0236,2024-09-29,CUST-0012,Leo Robinson,Manchester,North West,USB-C Hub,Electronics,2,44.99,89.98,57.14,32.84,PayPal,Online
+335,ORD-2024-0237,2024-09-29,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Gel Pen Set,Office,1,8.99,8.99,4.00,4.99,Credit Card,Online
+336,ORD-2024-0238,2024-09-30,CUST-0012,Leo Robinson,Manchester,North West,USB-C Hub,Electronics,1,42.74,42.74,29.51,13.23,Debit Card,Retail Store
+337,ORD-2024-0238,2024-09-30,CUST-0012,Leo Robinson,Manchester,North West,Foam Roller,Fitness,3,25.64,76.92,45.02,31.90,Debit Card,Retail Store
+338,ORD-2024-0239,2024-09-30,CUST-0034,Emily Edwards,Liverpool,North West,USB-C Hub,Electronics,1,40.49,40.49,29.33,11.16,Debit Card,Retail Store
+339,ORD-2024-0239,2024-09-30,CUST-0034,Emily Edwards,Liverpool,North West,Foam Roller,Fitness,3,26.99,80.97,45.34,35.63,Debit Card,Retail Store
+340,ORD-2024-0240,2024-09-30,CUST-0157,Maya Mitchell,London,London,Printer Paper Pack,Office,6,7.99,47.94,25.65,22.29,PayPal,Online
+341,ORD-2024-0241,2024-10-01,CUST-0180,Daniel Green,Leeds,Yorkshire,Hiking Backpack 30L,Outdoor,1,62.99,62.99,50.25,12.74,Debit Card,Marketplace
+342,ORD-2024-0241,2024-10-01,CUST-0180,Daniel Green,Leeds,Yorkshire,Laptop Stand,Electronics,1,39.99,39.99,25.59,14.40,Debit Card,Marketplace
+343,ORD-2024-0242,2024-10-03,CUST-0005,Olivia Singh,Liverpool,North West,Resistance Band Set,Fitness,1,18.99,18.99,9.68,9.31,Apple Pay,Retail Store
+344,ORD-2024-0243,2024-10-04,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Filter Coffee Maker,Home & Kitchen,1,79.99,79.99,55.59,24.40,Apple Pay,Online
+345,ORD-2024-0244,2024-10-05,CUST-0005,Olivia Singh,Liverpool,North West,Laptop Stand,Electronics,1,39.99,39.99,22.99,17.00,Debit Card,Online
+346,ORD-2024-0245,2024-10-05,CUST-0078,Grace Scott,London,London,Printer Paper Pack,Office,2,7.99,15.98,8.95,7.03,Debit Card,Retail Store
+347,ORD-2024-0246,2024-10-07,CUST-0007,Zara Singh,Southampton,South East,Bluetooth Speaker,Electronics,1,52.24,52.24,35.87,16.37,PayPal,Online
+348,ORD-2024-0247,2024-10-08,CUST-0008,William Walker,Glasgow,Scotland,Yoga Mat,Fitness,1,24.99,24.99,14.49,10.50,Debit Card,Marketplace
+349,ORD-2024-0248,2024-10-08,CUST-0082,Emily Taylor,Leeds,Yorkshire,Yoga Mat,Fitness,1,22.49,22.49,13.29,9.20,Apple Pay,Retail Store
+350,ORD-2024-0248,2024-10-08,CUST-0082,Emily Taylor,Leeds,Yorkshire,Bluetooth Speaker,Electronics,1,54.99,54.99,37.39,17.60,Apple Pay,Retail Store
+351,ORD-2024-0249,2024-10-09,CUST-0019,Eleanor Bennett,Sheffield,Yorkshire,Hiking Backpack 30L,Outdoor,1,69.99,69.99,48.29,21.70,Apple Pay,Retail Store
+352,ORD-2024-0250,2024-10-11,CUST-0027,Joseph King,Sheffield,Yorkshire,LED Desk Lamp,Home & Kitchen,2,29.99,59.98,32.69,27.29,Debit Card,Online
+353,ORD-2024-0250,2024-10-11,CUST-0027,Joseph King,Sheffield,Yorkshire,Portable SSD 1TB,Electronics,2,94.99,189.98,147.23,42.75,Debit Card,Online
+354,ORD-2024-0251,2024-10-11,CUST-0081,James Foster,Southampton,South East,Resistance Band Set,Fitness,1,18.99,18.99,10.44,8.55,Debit Card,Marketplace
+355,ORD-2024-0252,2024-10-12,CUST-0122,Charlotte Edwards,Birmingham,Midlands,Insulated Sports Bottle,Fitness,6,14.99,89.94,46.77,43.17,PayPal,Marketplace
+356,ORD-2024-0253,2024-10-13,CUST-0103,Zoe Phillips,Newcastle,North East,Waterproof Picnic Blanket,Outdoor,1,27.99,27.99,14.83,13.16,Debit Card,Retail Store
+357,ORD-2024-0254,2024-10-14,CUST-0162,Thomas Miller,Newcastle,North East,Full HD Webcam,Electronics,1,53.99,53.99,42.11,11.88,Debit Card,Retail Store
+358,ORD-2024-0255,2024-10-16,CUST-0021,Daniel Cooper,Edinburgh,Scotland,USB-C Hub,Electronics,2,44.99,89.98,57.14,32.84,Credit Card,Online
+359,ORD-2024-0256,2024-10-16,CUST-0073,Olivia Wilson,Leeds,Yorkshire,Adjustable Monitor Arm,Office,2,74.99,149.98,104.99,44.99,Credit Card,Retail Store
+360,ORD-2024-0257,2024-10-17,CUST-0098,Isaac Shah,Cambridge,East,Noise-Cancelling Headphones,Electronics,2,139.99,279.98,221.18,58.80,Credit Card,Retail Store
+361,ORD-2024-0258,2024-10-17,CUST-0156,Lucas Wilson,Brighton,South East,Bluetooth Speaker,Electronics,1,54.99,54.99,36.02,18.97,Debit Card,Online
+362,ORD-2024-0259,2024-10-17,CUST-0170,Leo Cooper,London,London,Adjustable Dumbbell Set,Fitness,1,72.24,72.24,59.94,12.30,Credit Card,Phone
+363,ORD-2024-0260,2024-10-18,CUST-0004,Olivia Carter,Leeds,Yorkshire,Full HD Webcam,Electronics,1,59.99,59.99,41.09,18.90,Debit Card,Online
+364,ORD-2024-0260,2024-10-18,CUST-0004,Olivia Carter,Leeds,Yorkshire,Bluetooth Speaker,Electronics,2,54.99,109.98,72.04,37.94,Debit Card,Online
+365,ORD-2024-0261,2024-10-19,CUST-0001,Imogen Roberts,Bristol,South West,Garden Tool Set,Outdoor,1,44.99,44.99,26.77,18.22,Credit Card,Online
+366,ORD-2024-0262,2024-10-23,CUST-0164,Layla Lewis,Brighton,South East,Ergonomic Desk Chair,Office,2,199.99,399.98,317.98,82.00,PayPal,Online
+367,ORD-2024-0262,2024-10-23,CUST-0164,Layla Lewis,Brighton,South East,Stainless Steel Travel Mug,Outdoor,1,18.99,18.99,9.84,9.15,PayPal,Online
+368,ORD-2024-0263,2024-10-24,CUST-0010,Charlotte Martin,Brighton,South East,Garden Tool Set,Outdoor,2,42.74,85.48,53.29,32.19,PayPal,Online
+369,ORD-2024-0264,2024-10-24,CUST-0040,Ethan Hall,Brighton,South East,Hiking Backpack 30L,Outdoor,1,66.49,66.49,46.35,20.14,PayPal,Online
+370,ORD-2024-0264,2024-10-24,CUST-0040,Ethan Hall,Brighton,South East,LED Desk Lamp,Home & Kitchen,1,26.99,26.99,16.18,10.81,PayPal,Online
+371,ORD-2024-0265,2024-10-25,CUST-0095,Freddie Clark,Southampton,South East,Full HD Webcam,Electronics,1,53.99,53.99,42.11,11.88,Credit Card,Retail Store
+372,ORD-2024-0266,2024-10-26,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Bluetooth Speaker,Electronics,2,54.99,109.98,72.04,37.94,Debit Card,Online
+373,ORD-2024-0267,2024-10-27,CUST-0017,Emily Singh,Glasgow,Scotland,Bluetooth Speaker,Electronics,1,54.99,54.99,39.59,15.40,Credit Card,Marketplace
+374,ORD-2024-0267,2024-10-27,CUST-0017,Emily Singh,Glasgow,Scotland,Stainless Steel Travel Mug,Outdoor,1,19.99,19.99,11.19,8.80,Credit Card,Marketplace
+375,ORD-2024-0268,2024-10-28,CUST-0060,Zoe Johnson,Liverpool,North West,Notebook Set,Office,1,12.99,12.99,7.01,5.98,Debit Card,Marketplace
+376,ORD-2024-0269,2024-10-28,CUST-0064,Mohammed Robinson,Leeds,Yorkshire,Notebook Set,Office,1,12.99,12.99,7.01,5.98,Credit Card,Marketplace
+377,ORD-2024-0270,2024-10-29,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Garden Tool Set,Outdoor,3,40.49,121.47,82.60,38.87,Credit Card,Retail Store
+378,ORD-2024-0270,2024-10-29,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Adjustable Monitor Arm,Office,3,74.99,224.97,157.48,67.49,Credit Card,Retail Store
+379,ORD-2024-0271,2024-10-30,CUST-0119,Ethan Phillips,Leeds,Yorkshire,Hiking Backpack 30L,Outdoor,2,69.99,139.98,93.09,46.89,PayPal,Online
+380,ORD-2024-0272,2024-10-31,CUST-0032,Jessica Evans,Birmingham,Midlands,Adjustable Monitor Arm,Office,2,74.99,149.98,102.74,47.24,Bank Transfer,Phone
+381,ORD-2024-0272,2024-10-31,CUST-0032,Jessica Evans,Birmingham,Midlands,Notebook Set,Office,3,12.99,38.97,18.90,20.07,Bank Transfer,Phone
+382,ORD-2024-0272,2024-10-31,CUST-0032,Jessica Evans,Birmingham,Midlands,Adjustable Dumbbell Set,Fitness,1,84.99,84.99,60.77,24.22,Bank Transfer,Phone
+383,ORD-2024-0273,2024-11-04,CUST-0012,Leo Robinson,Manchester,North West,Gel Pen Set,Office,2,8.99,17.98,8.00,9.98,PayPal,Online
+384,ORD-2024-0274,2024-11-04,CUST-0097,Chloe Johnson,Nottingham,Midlands,Printer Paper Pack,Office,1,7.59,7.59,4.33,3.26,Bank Transfer,Phone
+385,ORD-2024-0274,2024-11-04,CUST-0097,Chloe Johnson,Nottingham,Midlands,Adjustable Dumbbell Set,Fitness,4,76.49,305.96,240.86,65.10,Bank Transfer,Phone
+386,ORD-2024-0275,2024-11-06,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Portable SSD 1TB,Electronics,1,94.99,94.99,73.62,21.37,Apple Pay,Online
+387,ORD-2024-0276,2024-11-07,CUST-0027,Joseph King,Sheffield,Yorkshire,USB-C Hub,Electronics,1,38.24,38.24,29.15,9.09,Debit Card,Retail Store
+388,ORD-2024-0276,2024-11-07,CUST-0027,Joseph King,Sheffield,Yorkshire,Gel Pen Set,Office,1,8.99,8.99,4.23,4.76,Debit Card,Retail Store
+389,ORD-2024-0277,2024-11-07,CUST-0118,Olivia Foster,Manchester,North West,Adjustable Monitor Arm,Office,2,67.49,134.98,109.19,25.79,Credit Card,Marketplace
+390,ORD-2024-0277,2024-11-07,CUST-0118,Olivia Foster,Manchester,North West,Printer Paper Pack,Office,1,6.79,6.79,4.65,2.14,Credit Card,Marketplace
+391,ORD-2024-0278,2024-11-07,CUST-0132,Isaac Roberts,Bristol,South West,Wireless Mouse,Electronics,3,24.99,74.97,45.36,29.61,PayPal,Online
+392,ORD-2024-0279,2024-11-09,CUST-0108,David Patel,Norwich,East,Notebook Set,Office,1,10.39,10.39,6.70,3.69,Debit Card,Marketplace
+393,ORD-2024-0280,2024-11-11,CUST-0009,Maya Wilson,Brighton,South East,Electric Kettle,Home & Kitchen,1,34.99,34.99,22.74,12.25,Debit Card,Retail Store
+394,ORD-2024-0281,2024-11-11,CUST-0065,Layla Thomas,Brighton,South East,Waterproof Picnic Blanket,Outdoor,2,22.39,44.78,28.77,16.01,Debit Card,Retail Store
+395,ORD-2024-0282,2024-11-13,CUST-0093,Ruby Harris,Nottingham,Midlands,Bluetooth Speaker,Electronics,2,54.99,109.98,74.79,35.19,Credit Card,Retail Store
+396,ORD-2024-0283,2024-11-13,CUST-0157,Maya Mitchell,London,London,Filter Coffee Maker,Home & Kitchen,1,79.99,79.99,55.59,24.40,Debit Card,Online
+397,ORD-2024-0283,2024-11-13,CUST-0157,Maya Mitchell,London,London,Cordless Vacuum,Home & Kitchen,2,169.99,339.98,273.68,66.30,Debit Card,Online
+398,ORD-2024-0284,2024-11-14,CUST-0128,Daniel Miller,London,London,Bluetooth Speaker,Electronics,1,54.99,54.99,36.02,18.97,Debit Card,Online
+399,ORD-2024-0285,2024-11-15,CUST-0009,Maya Wilson,Brighton,South East,USB-C Hub,Electronics,1,44.99,44.99,28.57,16.42,Credit Card,Online
+400,ORD-2024-0286,2024-11-15,CUST-0114,Chloe Green,Bristol,South West,Air Fryer,Home & Kitchen,3,89.99,269.97,193.03,76.94,Apple Pay,Online
+401,ORD-2024-0287,2024-11-15,CUST-0127,George Thomas,Birmingham,Midlands,Garden Tool Set,Outdoor,3,44.99,134.97,80.31,54.66,Debit Card,Online
+402,ORD-2024-0288,2024-11-15,CUST-0139,Grace Harris,London,London,Two-Drawer Filing Cabinet,Office,3,113.99,341.97,270.61,71.36,Bank Transfer,Phone
+403,ORD-2024-0289,2024-11-16,CUST-0170,Leo Cooper,London,London,Stainless Steel Travel Mug,Outdoor,1,17.99,17.99,9.79,8.20,Credit Card,Online
+404,ORD-2024-0290,2024-11-17,CUST-0055,Emily Khan,Cardiff,Wales,Cookware Set,Home & Kitchen,1,109.99,109.99,83.59,26.40,Credit Card,Retail Store
+405,ORD-2024-0290,2024-11-17,CUST-0055,Emily Khan,Cardiff,Wales,Printer Paper Pack,Office,1,7.99,7.99,4.47,3.52,Credit Card,Retail Store
+406,ORD-2024-0291,2024-11-18,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Adjustable Monitor Arm,Office,2,74.99,149.98,101.24,48.74,PayPal,Online
+407,ORD-2024-0291,2024-11-18,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Portable SSD 1TB,Electronics,3,94.99,284.97,220.85,64.12,PayPal,Online
+408,ORD-2024-0292,2024-11-18,CUST-0045,Harry Evans,Nottingham,Midlands,Bluetooth Speaker,Electronics,2,54.99,109.98,73.14,36.84,Bank Transfer,Phone
+409,ORD-2024-0293,2024-11-20,CUST-0171,Layla Hughes,Southampton,South East,USB-C Hub,Electronics,2,44.99,89.98,57.14,32.84,Credit Card,Online
+410,ORD-2024-0294,2024-11-21,CUST-0151,Chloe Smith,Cardiff,Wales,Hiking Backpack 30L,Outdoor,2,66.49,132.98,92.70,40.28,Debit Card,Online
+411,ORD-2024-0295,2024-11-22,CUST-0029,Alice Campbell,Bristol,South West,Adjustable Monitor Arm,Office,1,74.99,74.99,50.62,24.37,PayPal,Online
+412,ORD-2024-0296,2024-11-23,CUST-0009,Maya Wilson,Brighton,South East,Waterproof Picnic Blanket,Outdoor,2,27.99,55.98,28.27,27.71,PayPal,Online
+413,ORD-2024-0297,2024-11-23,CUST-0059,Eleanor Lewis,Belfast,Northern Ireland,Two-Drawer Filing Cabinet,Office,3,113.99,341.97,289.42,52.55,Debit Card,Marketplace
+414,ORD-2024-0298,2024-11-23,CUST-0099,William Green,Birmingham,Midlands,Printer Paper Pack,Office,2,7.99,15.98,9.59,6.39,PayPal,Marketplace
+415,ORD-2024-0299,2024-11-24,CUST-0001,Imogen Roberts,Bristol,South West,Notebook Set,Office,1,12.99,12.99,6.50,6.49,Debit Card,Retail Store
+416,ORD-2024-0300,2024-11-24,CUST-0174,Amelia Morris,Manchester,North West,USB-C Hub,Electronics,2,44.99,89.98,59.39,30.59,Cash,Retail Store
+417,ORD-2024-0301,2024-11-25,CUST-0151,Chloe Smith,Cardiff,Wales,Wireless Mouse,Electronics,1,24.99,24.99,15.74,9.25,Credit Card,Retail Store
+418,ORD-2024-0302,2024-11-27,CUST-0001,Imogen Roberts,Bristol,South West,Notebook Set,Office,2,12.99,25.98,14.03,11.95,Credit Card,Marketplace
+419,ORD-2024-0303,2024-11-28,CUST-0055,Emily Khan,Cardiff,Wales,Stainless Steel Travel Mug,Outdoor,1,17.99,17.99,10.23,7.76,Debit Card,Retail Store
+420,ORD-2024-0304,2024-11-29,CUST-0099,William Green,Birmingham,Midlands,Adjustable Monitor Arm,Office,1,67.49,67.49,50.21,17.28,Credit Card,Online
+421,ORD-2024-0304,2024-11-29,CUST-0099,William Green,Birmingham,Midlands,Yoga Mat,Fitness,1,24.99,24.99,12.87,12.12,Credit Card,Online
+422,ORD-2024-0305,2024-11-30,CUST-0017,Emily Singh,Glasgow,Scotland,Full HD Webcam,Electronics,3,56.99,170.97,124.49,46.48,Credit Card,Phone
+423,ORD-2024-0306,2024-11-30,CUST-0079,Oliver Morgan,Nottingham,Midlands,Garden Tool Set,Outdoor,1,42.74,42.74,26.65,16.09,PayPal,Online
+424,ORD-2024-0307,2024-12-01,CUST-0017,Emily Singh,Glasgow,Scotland,Insulated Sports Bottle,Fitness,2,14.99,29.98,13.64,16.34,PayPal,Online
+425,ORD-2024-0308,2024-12-01,CUST-0029,Alice Campbell,Bristol,South West,Resistance Band Set,Fitness,1,18.99,18.99,9.21,9.78,PayPal,Online
+426,ORD-2024-0308,2024-12-01,CUST-0029,Alice Campbell,Bristol,South West,Laptop Stand,Electronics,2,33.99,67.98,45.33,22.65,PayPal,Online
+427,ORD-2024-0309,2024-12-05,CUST-0113,Priya Martin,Cambridge,East,LED Desk Lamp,Home & Kitchen,1,26.99,26.99,16.18,10.81,PayPal,Online
+428,ORD-2024-0310,2024-12-07,CUST-0017,Emily Singh,Glasgow,Scotland,Noise-Cancelling Headphones,Electronics,1,132.99,132.99,110.03,22.96,Debit Card,Retail Store
+429,ORD-2024-0311,2024-12-08,CUST-0090,Lily Wilson,Cardiff,Wales,Mechanical Keyboard,Electronics,1,69.99,69.99,51.09,18.90,Debit Card,Marketplace
+430,ORD-2024-0312,2024-12-09,CUST-0032,Jessica Evans,Birmingham,Midlands,Electric Kettle,Home & Kitchen,4,31.49,125.96,86.71,39.25,PayPal,Online
+431,ORD-2024-0313,2024-12-09,CUST-0108,David Patel,Norwich,East,Stainless Steel Travel Mug,Outdoor,1,18.99,18.99,11.07,7.92,Credit Card,Marketplace
+432,ORD-2024-0313,2024-12-09,CUST-0108,David Patel,Norwich,East,LED Desk Lamp,Home & Kitchen,1,28.49,28.49,18.11,10.38,Credit Card,Marketplace
+433,ORD-2024-0314,2024-12-10,CUST-0037,George Campbell,London,London,Two-Drawer Filing Cabinet,Office,1,119.99,119.99,97.19,22.80,Credit Card,Marketplace
+434,ORD-2024-0314,2024-12-10,CUST-0037,George Campbell,London,London,Resistance Band Set,Fitness,2,17.09,34.18,20.43,13.75,Credit Card,Marketplace
+435,ORD-2024-0315,2024-12-11,CUST-0160,Grace Thomas,Leeds,Yorkshire,Resistance Band Set,Fitness,2,18.99,37.98,19.37,18.61,Cash,Retail Store
+436,ORD-2024-0315,2024-12-11,CUST-0160,Grace Thomas,Leeds,Yorkshire,Foam Roller,Fitness,1,26.99,26.99,15.11,11.88,Cash,Retail Store
+437,ORD-2024-0316,2024-12-14,CUST-0056,Maya Taylor,Leeds,Yorkshire,Notebook Set,Office,1,12.99,12.99,6.17,6.82,Debit Card,Online
+438,ORD-2024-0316,2024-12-14,CUST-0056,Maya Taylor,Leeds,Yorkshire,Printer Paper Pack,Office,1,6.39,6.39,4.19,2.20,Debit Card,Online
+439,ORD-2024-0317,2024-12-14,CUST-0100,Aisha Clark,Norwich,East,Resistance Band Set,Fitness,1,18.99,18.99,9.68,9.31,Debit Card,Retail Store
+440,ORD-2024-0318,2024-12-15,CUST-0089,Priya Baker,Edinburgh,Scotland,Adjustable Monitor Arm,Office,2,74.99,149.98,110.99,38.99,Debit Card,Marketplace
+441,ORD-2024-0319,2024-12-15,CUST-0106,Lily Edwards,Birmingham,Midlands,Waterproof Picnic Blanket,Outdoor,1,27.99,27.99,14.13,13.86,PayPal,Online
+442,ORD-2024-0320,2024-12-16,CUST-0029,Alice Campbell,Bristol,South West,Hiking Backpack 30L,Outdoor,3,59.49,178.47,142.36,36.11,Debit Card,Retail Store
+443,ORD-2024-0321,2024-12-17,CUST-0041,Emily Thomas,Liverpool,North West,Adjustable Monitor Arm,Office,1,74.99,74.99,55.49,19.50,Credit Card,Marketplace
+444,ORD-2024-0322,2024-12-19,CUST-0118,Olivia Foster,Manchester,North West,Waterproof Picnic Blanket,Outdoor,1,22.39,22.39,13.83,8.56,PayPal,Online
+445,ORD-2024-0323,2024-12-20,CUST-0043,Zoe Taylor,Birmingham,Midlands,Insulated Sports Bottle,Fitness,1,14.99,14.99,6.82,8.17,Debit Card,Online
+446,ORD-2024-0324,2024-12-22,CUST-0072,Amelia Lewis,Birmingham,Midlands,Stainless Steel Travel Mug,Outdoor,3,17.99,53.97,29.36,24.61,Debit Card,Online
+447,ORD-2024-0325,2024-12-24,CUST-0091,Sofia Martin,Leeds,Yorkshire,Resistance Band Set,Fitness,1,18.99,18.99,9.21,9.78,Apple Pay,Online
+448,ORD-2024-0326,2024-12-26,CUST-0032,Jessica Evans,Birmingham,Midlands,Ergonomic Desk Chair,Office,1,159.99,159.99,167.19,-7.20,PayPal,Marketplace
+449,ORD-2024-0327,2024-12-26,CUST-0082,Emily Taylor,Leeds,Yorkshire,Bluetooth Speaker,Electronics,1,49.49,49.49,38.93,10.56,Debit Card,Marketplace
+450,ORD-2024-0328,2024-12-26,CUST-0128,Daniel Miller,London,London,Laptop Stand,Electronics,1,39.99,39.99,23.39,16.60,Credit Card,Phone
+451,ORD-2024-0328,2024-12-26,CUST-0128,Daniel Miller,London,London,Wireless Mouse,Electronics,1,23.74,23.74,15.29,8.45,Credit Card,Phone
+452,ORD-2024-0329,2024-12-27,CUST-0145,Ethan Campbell,Exeter,South West,Stainless Steel Travel Mug,Outdoor,1,19.99,19.99,11.19,8.80,Debit Card,Marketplace
+453,ORD-2024-0330,2024-12-27,CUST-0171,Layla Hughes,Southampton,South East,USB-C Hub,Electronics,1,40.49,40.49,28.73,11.76,Credit Card,Phone
+454,ORD-2024-0331,2024-12-28,CUST-0006,Mohammed Mitchell,Nottingham,Midlands,Gel Pen Set,Office,6,7.19,43.14,26.21,16.93,Credit Card,Marketplace
+455,ORD-2024-0331,2024-12-28,CUST-0006,Mohammed Mitchell,Nottingham,Midlands,LED Desk Lamp,Home & Kitchen,1,28.49,28.49,18.11,10.38,Credit Card,Marketplace
+456,ORD-2024-0332,2024-12-28,CUST-0017,Emily Singh,Glasgow,Scotland,Noise-Cancelling Headphones,Electronics,1,132.99,132.99,106.71,26.28,Debit Card,Online
+457,ORD-2024-0333,2024-12-30,CUST-0079,Oliver Morgan,Nottingham,Midlands,Notebook Set,Office,1,12.34,12.34,6.13,6.21,Debit Card,Online
+458,ORD-2024-0333,2024-12-30,CUST-0079,Oliver Morgan,Nottingham,Midlands,Two-Drawer Filing Cabinet,Office,1,107.99,107.99,88.73,19.26,Debit Card,Online
+459,ORD-2024-0334,2024-12-31,CUST-0095,Freddie Clark,Southampton,South East,Waterproof Picnic Blanket,Outdoor,1,25.19,25.19,13.98,11.21,PayPal,Online
+460,ORD-2025-0335,2025-01-05,CUST-0025,Imogen Carter,Norwich,East,Full HD Webcam,Electronics,2,61.19,122.38,86.51,35.87,Apple Pay,Retail Store
+461,ORD-2025-0336,2025-01-05,CUST-0075,Sofia Robinson,Manchester,North West,Foam Roller,Fitness,1,27.53,27.53,14.66,12.87,Credit Card,Online
+462,ORD-2025-0336,2025-01-05,CUST-0075,Sofia Robinson,Manchester,North West,Two-Drawer Filing Cabinet,Office,1,122.39,122.39,90.77,31.62,Credit Card,Online
+463,ORD-2025-0337,2025-01-05,CUST-0130,Priya Smith,Cardiff,Wales,Notebook Set,Office,1,13.25,13.25,6.27,6.98,Credit Card,Online
+464,ORD-2025-0338,2025-01-05,CUST-0162,Thomas Miller,Newcastle,North East,Yoga Mat,Fitness,2,21.67,43.34,25.72,17.62,Debit Card,Online
+465,ORD-2025-0338,2025-01-05,CUST-0162,Thomas Miller,Newcastle,North East,Printer Paper Pack,Office,2,8.15,16.30,8.68,7.62,Debit Card,Online
+466,ORD-2025-0339,2025-01-08,CUST-0003,Imogen Morris,Glasgow,Scotland,Foam Roller,Fitness,1,27.53,27.53,16.45,11.08,Debit Card,Marketplace
+467,ORD-2025-0340,2025-01-08,CUST-0066,Thomas Foster,London,London,Ergonomic Desk Chair,Office,1,203.99,203.99,161.43,42.56,Gift Card,Online
+468,ORD-2025-0341,2025-01-10,CUST-0011,Thomas Ahmed,Liverpool,North West,LED Desk Lamp,Home & Kitchen,1,29.06,29.06,17.24,11.82,Credit Card,Retail Store
+469,ORD-2025-0341,2025-01-10,CUST-0011,Thomas Ahmed,Liverpool,North West,Cookware Set,Home & Kitchen,3,112.19,336.57,254.67,81.90,Credit Card,Retail Store
+470,ORD-2025-0342,2025-01-13,CUST-0047,Alice Phillips,London,London,Gel Pen Set,Office,1,8.71,8.71,4.04,4.67,Debit Card,Online
+471,ORD-2025-0343,2025-01-16,CUST-0027,Joseph King,Sheffield,Yorkshire,Insulated Sports Bottle,Fitness,2,15.29,30.58,13.85,16.73,Credit Card,Online
+472,ORD-2025-0343,2025-01-16,CUST-0027,Joseph King,Sheffield,Yorkshire,Portable SSD 1TB,Electronics,1,96.89,96.89,74.75,22.14,Credit Card,Online
+473,ORD-2025-0344,2025-01-19,CUST-0143,Layla Evans,London,London,Portable SSD 1TB,Electronics,3,96.89,290.67,224.24,66.43,Debit Card,Online
+474,ORD-2025-0345,2025-01-20,CUST-0004,Olivia Carter,Leeds,Yorkshire,Adjustable Monitor Arm,Office,1,68.84,68.84,50.98,17.86,Credit Card,Online
+475,ORD-2025-0345,2025-01-20,CUST-0004,Olivia Carter,Leeds,Yorkshire,Wireless Mouse,Electronics,1,24.22,24.22,15.28,8.94,Credit Card,Online
+476,ORD-2025-0345,2025-01-20,CUST-0004,Olivia Carter,Leeds,Yorkshire,Printer Paper Pack,Office,2,7.74,15.48,8.64,6.84,Credit Card,Online
+477,ORD-2025-0346,2025-01-20,CUST-0051,Jack Johnson,London,London,Mechanical Keyboard,Electronics,1,71.39,71.39,47.26,24.13,Credit Card,Online
+478,ORD-2025-0347,2025-01-20,CUST-0136,Sofia Taylor,Nottingham,Midlands,Hiking Backpack 30L,Outdoor,4,67.82,271.28,195.04,76.24,Debit Card,Retail Store
+479,ORD-2025-0348,2025-01-21,CUST-0053,Jessica Khan,Birmingham,Midlands,Cookware Set,Home & Kitchen,1,95.36,95.36,83.54,11.82,Credit Card,Retail Store
+480,ORD-2025-0349,2025-01-25,CUST-0031,James Khan,Bristol,South West,Insulated Sports Bottle,Fitness,2,15.29,30.58,14.16,16.42,Credit Card,Phone
+481,ORD-2025-0349,2025-01-25,CUST-0031,James Khan,Bristol,South West,Resistance Band Set,Fitness,2,19.37,38.74,19.09,19.65,Credit Card,Phone
+482,ORD-2025-0349,2025-01-25,CUST-0031,James Khan,Bristol,South West,Yoga Mat,Fitness,1,25.49,25.49,13.32,12.17,Credit Card,Phone
+483,ORD-2025-0350,2025-01-26,CUST-0081,James Foster,Southampton,South East,Printer Paper Pack,Office,1,6.52,6.52,4.41,2.11,Cash,Retail Store
+484,ORD-2025-0351,2025-01-26,CUST-0124,Freddie Scott,Sheffield,Yorkshire,Cookware Set,Home & Kitchen,1,112.19,112.19,84.89,27.30,Apple Pay,Retail Store
+485,ORD-2025-0352,2025-01-28,CUST-0012,Leo Robinson,Manchester,North West,Foam Roller,Fitness,3,27.53,82.59,43.99,38.60,Credit Card,Online
+486,ORD-2025-0352,2025-01-28,CUST-0012,Leo Robinson,Manchester,North West,Full HD Webcam,Electronics,2,61.19,122.38,83.45,38.93,Credit Card,Online
+487,ORD-2025-0352,2025-01-28,CUST-0012,Leo Robinson,Manchester,North West,Electric Kettle,Home & Kitchen,1,35.69,35.69,22.21,13.48,Credit Card,Online
+488,ORD-2025-0353,2025-01-29,CUST-0010,Charlotte Martin,Brighton,South East,USB-C Hub,Electronics,2,45.89,91.78,60.31,31.47,Debit Card,Retail Store
+489,ORD-2025-0354,2025-01-29,CUST-0043,Zoe Taylor,Birmingham,Midlands,Foam Roller,Fitness,2,27.53,55.06,29.33,25.73,Credit Card,Online
+490,ORD-2025-0355,2025-01-31,CUST-0007,Zara Singh,Southampton,South East,Yoga Mat,Fitness,1,25.49,25.49,13.07,12.42,Apple Pay,Online
+491,ORD-2025-0356,2025-02-01,CUST-0011,Thomas Ahmed,Liverpool,North West,Resistance Band Set,Fitness,1,18.40,18.40,9.76,8.64,Credit Card,Retail Store
+492,ORD-2025-0357,2025-02-01,CUST-0031,James Khan,Bristol,South West,Wireless Mouse,Electronics,2,25.49,50.98,34.02,16.96,Debit Card,Marketplace
+493,ORD-2025-0357,2025-02-01,CUST-0031,James Khan,Bristol,South West,Laptop Stand,Electronics,1,38.75,38.75,25.76,12.99,Debit Card,Marketplace
+494,ORD-2025-0358,2025-02-02,CUST-0004,Olivia Carter,Leeds,Yorkshire,USB-C Hub,Electronics,2,45.89,91.78,58.02,33.76,PayPal,Online
+495,ORD-2025-0359,2025-02-02,CUST-0011,Thomas Ahmed,Liverpool,North West,Stainless Steel Travel Mug,Outdoor,1,20.39,20.39,10.56,9.83,Debit Card,Retail Store
+496,ORD-2025-0359,2025-02-02,CUST-0011,Thomas Ahmed,Liverpool,North West,Wireless Mouse,Electronics,1,22.94,22.94,15.79,7.15,Debit Card,Retail Store
+497,ORD-2025-0359,2025-02-02,CUST-0011,Thomas Ahmed,Liverpool,North West,Notebook Set,Office,1,13.25,13.25,6.60,6.65,Debit Card,Retail Store
+498,ORD-2025-0360,2025-02-04,CUST-0008,William Walker,Glasgow,Scotland,Notebook Set,Office,6,12.59,75.54,37.38,38.16,PayPal,Online
+499,ORD-2025-0361,2025-02-05,CUST-0161,Joseph Patel,Birmingham,Midlands,Resistance Band Set,Fitness,1,16.46,16.46,9.19,7.27,Credit Card,Online
+500,ORD-2025-0362,2025-02-07,CUST-0007,Zara Singh,Southampton,South East,Bluetooth Speaker,Electronics,1,53.29,53.29,36.42,16.87,PayPal,Online
+501,ORD-2025-0363,2025-02-12,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Resistance Band Set,Fitness,1,19.37,19.37,9.35,10.02,Credit Card,Online
+502,ORD-2025-0364,2025-02-12,CUST-0155,Maya Smith,Leeds,Yorkshire,Foam Roller,Fitness,3,23.40,70.20,45.06,25.14,Cash,Retail Store
+503,ORD-2025-0365,2025-02-12,CUST-0162,Thomas Miller,Newcastle,North East,Filter Coffee Maker,Home & Kitchen,1,77.51,77.51,58.16,19.35,Debit Card,Retail Store
+504,ORD-2025-0366,2025-02-15,CUST-0170,Leo Cooper,London,London,Printer Paper Pack,Office,1,7.74,7.74,4.51,3.23,Credit Card,Retail Store
+505,ORD-2025-0366,2025-02-15,CUST-0170,Leo Cooper,London,London,Insulated Sports Bottle,Fitness,1,13.76,13.76,7.19,6.57,Credit Card,Retail Store
+506,ORD-2025-0367,2025-02-17,CUST-0007,Zara Singh,Southampton,South East,Wireless Mouse,Electronics,1,25.49,25.49,15.99,9.50,Credit Card,Retail Store
+507,ORD-2025-0368,2025-02-17,CUST-0010,Charlotte Martin,Brighton,South East,Cookware Set,Home & Kitchen,1,106.58,106.58,84.44,22.14,Debit Card,Retail Store
+508,ORD-2025-0369,2025-02-19,CUST-0006,Mohammed Mitchell,Nottingham,Midlands,Adjustable Dumbbell Set,Fitness,1,86.69,86.69,63.01,23.68,Credit Card,Retail Store
+509,ORD-2025-0370,2025-02-19,CUST-0043,Zoe Taylor,Birmingham,Midlands,Filter Coffee Maker,Home & Kitchen,1,81.59,81.59,56.45,25.14,Debit Card,Online
+510,ORD-2025-0370,2025-02-19,CUST-0043,Zoe Taylor,Birmingham,Midlands,Resistance Band Set,Fitness,3,18.40,55.20,27.90,27.30,Debit Card,Online
+511,ORD-2025-0371,2025-02-22,CUST-0014,Samuel Edwards,Cardiff,Wales,Electric Kettle,Home & Kitchen,1,35.69,35.69,22.21,13.48,Apple Pay,Online
+512,ORD-2025-0372,2025-02-23,CUST-0119,Ethan Phillips,Leeds,Yorkshire,Printer Paper Pack,Office,2,8.15,16.30,9.09,7.21,Credit Card,Retail Store
+513,ORD-2025-0372,2025-02-23,CUST-0119,Ethan Phillips,Leeds,Yorkshire,Gel Pen Set,Office,1,7.79,7.79,4.18,3.61,Credit Card,Retail Store
+514,ORD-2025-0373,2025-02-24,CUST-0011,Thomas Ahmed,Liverpool,North West,Notebook Set,Office,1,11.92,11.92,6.49,5.43,Cash,Retail Store
+515,ORD-2025-0374,2025-02-25,CUST-0145,Ethan Campbell,Exeter,South West,Stainless Steel Travel Mug,Outdoor,1,20.39,20.39,10.56,9.83,Debit Card,Retail Store
+516,ORD-2025-0375,2025-02-26,CUST-0033,Joseph Smith,Manchester,North West,Gel Pen Set,Office,1,9.17,9.17,4.06,5.11,Credit Card,Online
+517,ORD-2025-0375,2025-02-26,CUST-0033,Joseph Smith,Manchester,North West,Notebook Set,Office,1,11.92,11.92,6.19,5.73,Credit Card,Online
+518,ORD-2025-0376,2025-02-26,CUST-0034,Emily Edwards,Liverpool,North West,Bluetooth Speaker,Electronics,1,56.09,56.09,36.57,19.52,Debit Card,Online
+519,ORD-2025-0376,2025-02-26,CUST-0034,Emily Edwards,Liverpool,North West,Gel Pen Set,Office,1,8.71,8.71,4.04,4.67,Debit Card,Online
+520,ORD-2025-0377,2025-02-27,CUST-0110,Jack Ahmed,Cardiff,Wales,Gel Pen Set,Office,3,8.71,26.13,12.11,14.02,Apple Pay,Online
+521,ORD-2025-0378,2025-02-27,CUST-0157,Maya Mitchell,London,London,Waterproof Picnic Blanket,Outdoor,3,28.55,85.65,43.92,41.73,Credit Card,Phone
+522,ORD-2025-0378,2025-02-27,CUST-0157,Maya Mitchell,London,London,Garden Tool Set,Outdoor,1,45.89,45.89,27.64,18.25,Credit Card,Phone
+523,ORD-2025-0379,2025-02-28,CUST-0146,Joseph Clark,Manchester,North West,Ergonomic Desk Chair,Office,1,163.19,163.19,159.19,4.00,Credit Card,Online
+524,ORD-2025-0380,2025-03-01,CUST-0026,Ethan James,Liverpool,North West,Printer Paper Pack,Office,3,8.15,24.45,14.61,9.84,Credit Card,Marketplace
+525,ORD-2025-0381,2025-03-01,CUST-0157,Maya Mitchell,London,London,Foam Roller,Fitness,1,27.53,27.53,14.94,12.59,Credit Card,Phone
+526,ORD-2025-0382,2025-03-03,CUST-0134,Aisha Hughes,Leeds,Yorkshire,Filter Coffee Maker,Home & Kitchen,2,81.59,163.18,112.90,50.28,Debit Card,Online
+527,ORD-2025-0383,2025-03-04,CUST-0116,Fatima Hall,London,London,Garden Tool Set,Outdoor,2,41.30,82.60,53.86,28.74,Credit Card,Online
+528,ORD-2025-0384,2025-03-04,CUST-0125,Zara Edwards,London,London,Yoga Mat,Fitness,2,25.49,50.98,26.14,24.84,Debit Card,Online
+529,ORD-2025-0384,2025-03-04,CUST-0125,Zara Edwards,London,London,Laptop Stand,Electronics,1,38.75,38.75,23.24,15.51,Debit Card,Online
+530,ORD-2025-0385,2025-03-07,CUST-0105,Lucas Campbell,Brighton,South East,Noise-Cancelling Headphones,Electronics,2,142.79,285.58,236.04,49.54,PayPal,Marketplace
+531,ORD-2025-0386,2025-03-09,CUST-0128,Daniel Miller,London,London,Insulated Sports Bottle,Fitness,1,15.29,15.29,7.31,7.98,Credit Card,Retail Store
+532,ORD-2025-0386,2025-03-09,CUST-0128,Daniel Miller,London,London,Electric Kettle,Home & Kitchen,4,35.69,142.76,92.39,50.37,Credit Card,Retail Store
+533,ORD-2025-0386,2025-03-09,CUST-0128,Daniel Miller,London,London,Gel Pen Set,Office,2,7.79,15.58,8.36,7.22,Credit Card,Retail Store
+534,ORD-2025-0387,2025-03-11,CUST-0071,Daniel Baker,Southampton,South East,Stainless Steel Travel Mug,Outdoor,5,19.37,96.85,49.96,46.89,PayPal,Online
+535,ORD-2025-0388,2025-03-12,CUST-0051,Jack Johnson,London,London,Hiking Backpack 30L,Outdoor,1,71.39,71.39,47.97,23.42,Credit Card,Phone
+536,ORD-2025-0389,2025-03-14,CUST-0136,Sofia Taylor,Nottingham,Midlands,Portable SSD 1TB,Electronics,1,77.51,77.51,73.68,3.83,Credit Card,Online
+537,ORD-2025-0390,2025-03-15,CUST-0033,Joseph Smith,Manchester,North West,Air Fryer,Home & Kitchen,2,82.61,165.22,140.40,24.82,Debit Card,Marketplace
+538,ORD-2025-0391,2025-03-15,CUST-0154,Mohammed Morris,Birmingham,Midlands,Laptop Stand,Electronics,1,40.79,40.79,23.35,17.44,Debit Card,Online
+539,ORD-2025-0391,2025-03-15,CUST-0154,Mohammed Morris,Birmingham,Midlands,Portable SSD 1TB,Electronics,1,87.20,87.20,74.21,12.99,Debit Card,Online
+540,ORD-2025-0392,2025-03-15,CUST-0178,Amelia Martin,London,London,Insulated Sports Bottle,Fitness,2,13.76,27.52,13.69,13.83,PayPal,Online
+541,ORD-2025-0392,2025-03-15,CUST-0178,Amelia Martin,London,London,Notebook Set,Office,3,13.25,39.75,18.80,20.95,PayPal,Online
+542,ORD-2025-0393,2025-03-17,CUST-0066,Thomas Foster,London,London,Resistance Band Set,Fitness,1,18.40,18.40,10.50,7.90,Debit Card,Marketplace
+543,ORD-2025-0394,2025-03-19,CUST-0037,George Campbell,London,London,Printer Paper Pack,Office,2,6.93,13.86,8.89,4.97,Debit Card,Retail Store
+544,ORD-2025-0395,2025-03-20,CUST-0027,Joseph King,Sheffield,Yorkshire,Full HD Webcam,Electronics,1,61.19,61.19,43.26,17.93,Gift Card,Retail Store
+545,ORD-2025-0396,2025-03-20,CUST-0040,Ethan Hall,Brighton,South East,USB-C Hub,Electronics,1,43.60,43.60,28.88,14.72,Debit Card,Online
+546,ORD-2025-0396,2025-03-20,CUST-0040,Ethan Hall,Brighton,South East,Foam Roller,Fitness,1,27.53,27.53,14.66,12.87,Debit Card,Online
+547,ORD-2025-0397,2025-03-21,CUST-0009,Maya Wilson,Brighton,South East,Bluetooth Speaker,Electronics,4,53.29,213.16,151.01,62.15,Credit Card,Retail Store
+548,ORD-2025-0398,2025-03-21,CUST-0035,Oscar Collins,London,London,Full HD Webcam,Electronics,1,58.13,58.13,43.01,15.12,Apple Pay,Retail Store
+549,ORD-2025-0398,2025-03-21,CUST-0035,Oscar Collins,London,London,Gel Pen Set,Office,1,8.25,8.25,4.22,4.03,Apple Pay,Retail Store
+550,ORD-2025-0399,2025-03-21,CUST-0093,Ruby Harris,Nottingham,Midlands,Stainless Steel Travel Mug,Outdoor,1,20.39,20.39,10.25,10.14,Debit Card,Phone
+551,ORD-2025-0399,2025-03-21,CUST-0093,Ruby Harris,Nottingham,Midlands,Gel Pen Set,Office,1,8.25,8.25,4.09,4.16,Debit Card,Phone
+552,ORD-2025-0400,2025-03-22,CUST-0108,David Patel,Norwich,East,Mechanical Keyboard,Electronics,3,71.39,214.17,141.78,72.39,Debit Card,Online
+553,ORD-2025-0400,2025-03-22,CUST-0108,David Patel,Norwich,East,Printer Paper Pack,Office,1,7.33,7.33,4.30,3.03,Debit Card,Online
+554,ORD-2025-0400,2025-03-22,CUST-0108,David Patel,Norwich,East,Two-Drawer Filing Cabinet,Office,3,122.39,367.17,272.30,94.87,Debit Card,Online
+555,ORD-2025-0401,2025-03-23,CUST-0039,Oscar Lewis,Cambridge,East,Electric Kettle,Home & Kitchen,1,35.69,35.69,23.10,12.59,Credit Card,Retail Store
+556,ORD-2025-0401,2025-03-23,CUST-0039,Oscar Lewis,Cambridge,East,Mechanical Keyboard,Electronics,1,64.25,64.25,48.47,15.78,Credit Card,Retail Store
+557,ORD-2025-0402,2025-03-24,CUST-0120,Noah Wilson,Edinburgh,Scotland,Printer Paper Pack,Office,1,8.15,8.15,4.54,3.61,Cash,Retail Store
+558,ORD-2025-0402,2025-03-24,CUST-0120,Noah Wilson,Edinburgh,Scotland,Full HD Webcam,Electronics,2,52.01,104.02,85.04,18.98,Cash,Retail Store
+559,ORD-2025-0402,2025-03-24,CUST-0120,Noah Wilson,Edinburgh,Scotland,USB-C Hub,Electronics,1,45.89,45.89,30.16,15.73,Cash,Retail Store
+560,ORD-2025-0403,2025-03-25,CUST-0073,Olivia Wilson,Leeds,Yorkshire,Resistance Band Set,Fitness,1,19.37,19.37,9.84,9.53,Apple Pay,Retail Store
+561,ORD-2025-0404,2025-03-29,CUST-0014,Samuel Edwards,Cardiff,Wales,Garden Tool Set,Outdoor,2,39.01,78.02,58.68,19.34,PayPal,Marketplace
+562,ORD-2025-0405,2025-03-31,CUST-0005,Olivia Singh,Liverpool,North West,Notebook Set,Office,3,11.92,35.76,18.58,17.18,Credit Card,Online
+563,ORD-2025-0406,2025-04-01,CUST-0001,Imogen Roberts,Bristol,South West,Stainless Steel Travel Mug,Outdoor,2,20.39,40.78,20.10,20.68,PayPal,Online
+564,ORD-2025-0407,2025-04-01,CUST-0027,Joseph King,Sheffield,Yorkshire,Wireless Mouse,Electronics,1,24.22,24.22,15.52,8.70,Credit Card,Phone
+565,ORD-2025-0408,2025-04-03,CUST-0039,Oscar Lewis,Cambridge,East,Mechanical Keyboard,Electronics,1,71.39,71.39,47.26,24.13,PayPal,Online
+566,ORD-2025-0409,2025-04-05,CUST-0039,Oscar Lewis,Cambridge,East,Garden Tool Set,Outdoor,2,43.60,87.20,54.11,33.09,Credit Card,Online
+567,ORD-2025-0410,2025-04-05,CUST-0143,Layla Evans,London,London,Gel Pen Set,Office,1,7.79,7.79,3.99,3.80,Credit Card,Online
+568,ORD-2025-0411,2025-04-06,CUST-0082,Emily Taylor,Leeds,Yorkshire,Noise-Cancelling Headphones,Electronics,3,142.79,428.37,326.21,102.16,Apple Pay,Online
+569,ORD-2025-0412,2025-04-08,CUST-0118,Olivia Foster,Manchester,North West,Air Fryer,Home & Kitchen,2,78.02,156.04,139.29,16.75,Credit Card,Marketplace
+570,ORD-2025-0413,2025-04-12,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Foam Roller,Fitness,2,26.15,52.30,32.58,19.72,Credit Card,Marketplace
+571,ORD-2025-0414,2025-04-14,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Adjustable Monitor Arm,Office,2,76.49,152.98,106.62,46.36,Apple Pay,Retail Store
+572,ORD-2025-0414,2025-04-14,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Resistance Band Set,Fitness,1,18.40,18.40,9.76,8.64,Apple Pay,Retail Store
+573,ORD-2025-0414,2025-04-14,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Foam Roller,Fitness,1,27.53,27.53,15.35,12.18,Apple Pay,Retail Store
+574,ORD-2025-0415,2025-04-14,CUST-0100,Aisha Clark,Norwich,East,Resistance Band Set,Fitness,1,17.43,17.43,9.25,8.18,Apple Pay,Online
+575,ORD-2025-0416,2025-04-15,CUST-0045,Harry Evans,Nottingham,Midlands,Portable SSD 1TB,Electronics,1,96.89,96.89,77.17,19.72,Cash,Retail Store
+576,ORD-2025-0416,2025-04-15,CUST-0045,Harry Evans,Nottingham,Midlands,Yoga Mat,Fitness,3,25.49,76.47,41.12,35.35,Cash,Retail Store
+577,ORD-2025-0416,2025-04-15,CUST-0045,Harry Evans,Nottingham,Midlands,Laptop Stand,Electronics,1,40.79,40.79,24.37,16.42,Cash,Retail Store
+578,ORD-2025-0417,2025-04-17,CUST-0133,Layla Morgan,Sheffield,Yorkshire,Hiking Backpack 30L,Outdoor,1,71.39,71.39,47.26,24.13,PayPal,Online
+579,ORD-2025-0418,2025-04-18,CUST-0009,Maya Wilson,Brighton,South East,Gel Pen Set,Office,3,9.17,27.51,12.19,15.32,Credit Card,Online
+580,ORD-2025-0418,2025-04-18,CUST-0009,Maya Wilson,Brighton,South East,USB-C Hub,Electronics,1,45.89,45.89,29.01,16.88,Credit Card,Online
+581,ORD-2025-0419,2025-04-20,CUST-0075,Sofia Robinson,Manchester,North West,Electric Kettle,Home & Kitchen,1,33.91,33.91,22.11,11.80,Debit Card,Online
+582,ORD-2025-0419,2025-04-20,CUST-0075,Sofia Robinson,Manchester,North West,Filter Coffee Maker,Home & Kitchen,2,77.51,155.02,112.45,42.57,Debit Card,Online
+583,ORD-2025-0420,2025-04-20,CUST-0080,Mohammed Taylor,Brighton,South East,Wireless Mouse,Electronics,1,25.49,25.49,15.35,10.14,Debit Card,Online
+584,ORD-2025-0421,2025-04-22,CUST-0047,Alice Phillips,London,London,Ergonomic Desk Chair,Office,1,203.99,203.99,166.53,37.46,Debit Card,Retail Store
+585,ORD-2025-0421,2025-04-22,CUST-0047,Alice Phillips,London,London,USB-C Hub,Electronics,3,45.89,137.67,90.47,47.20,Debit Card,Retail Store
+586,ORD-2025-0422,2025-04-24,CUST-0008,William Walker,Glasgow,Scotland,Waterproof Picnic Blanket,Outdoor,3,25.69,77.07,47.60,29.47,Credit Card,Marketplace
+587,ORD-2025-0423,2025-04-25,CUST-0096,Zara James,Norwich,East,Gel Pen Set,Office,1,8.25,8.25,4.22,4.03,Credit Card,Retail Store
+588,ORD-2025-0424,2025-04-26,CUST-0023,Emily Davies,Cardiff,Wales,Laptop Stand,Electronics,2,40.79,81.58,48.74,32.84,Debit Card,Retail Store
+589,ORD-2025-0425,2025-04-29,CUST-0003,Imogen Morris,Glasgow,Scotland,Printer Paper Pack,Office,1,6.93,6.93,4.27,2.66,PayPal,Online
+590,ORD-2025-0426,2025-04-30,CUST-0158,Jack Bennett,Manchester,North West,Full HD Webcam,Electronics,1,52.01,52.01,42.52,9.49,Credit Card,Retail Store
+591,ORD-2025-0427,2025-05-03,CUST-0024,Mohammed Bennett,Sheffield,Yorkshire,Laptop Stand,Electronics,2,40.79,81.58,48.74,32.84,Credit Card,Retail Store
+592,ORD-2025-0427,2025-05-03,CUST-0024,Mohammed Bennett,Sheffield,Yorkshire,USB-C Hub,Electronics,1,45.89,45.89,30.16,15.73,Credit Card,Retail Store
+593,ORD-2025-0428,2025-05-03,CUST-0097,Chloe Johnson,Nottingham,Midlands,Portable SSD 1TB,Electronics,3,96.89,290.67,231.51,59.16,Debit Card,Retail Store
+594,ORD-2025-0429,2025-05-04,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Adjustable Dumbbell Set,Fitness,3,78.02,234.06,186.94,47.12,Cash,Retail Store
+595,ORD-2025-0430,2025-05-04,CUST-0040,Ethan Hall,Brighton,South East,Insulated Sports Bottle,Fitness,3,15.29,45.87,23.76,22.11,PayPal,Marketplace
+596,ORD-2025-0431,2025-05-07,CUST-0008,William Walker,Glasgow,Scotland,Cookware Set,Home & Kitchen,2,106.58,213.16,163.55,49.61,PayPal,Online
+597,ORD-2025-0432,2025-05-07,CUST-0047,Alice Phillips,London,London,Electric Kettle,Home & Kitchen,1,33.91,33.91,22.96,10.95,Cash,Retail Store
+598,ORD-2025-0433,2025-05-07,CUST-0092,Ethan Smith,London,London,Notebook Set,Office,1,11.92,11.92,6.19,5.73,Debit Card,Online
+599,ORD-2025-0434,2025-05-10,CUST-0074,Lucas Ahmed,Manchester,North West,Gel Pen Set,Office,3,9.17,27.51,12.19,15.32,Debit Card,Online
+600,ORD-2025-0435,2025-05-10,CUST-0131,Hannah Morgan,Liverpool,North West,Stainless Steel Travel Mug,Outdoor,4,19.37,77.48,39.97,37.51,Apple Pay,Online
+601,ORD-2025-0435,2025-05-10,CUST-0131,Hannah Morgan,Liverpool,North West,Insulated Sports Bottle,Fitness,1,15.29,15.29,6.93,8.36,Apple Pay,Online
+602,ORD-2025-0436,2025-05-11,CUST-0110,Jack Ahmed,Cardiff,Wales,Adjustable Dumbbell Set,Fitness,1,69.35,69.35,64.39,4.96,Credit Card,Marketplace
+603,ORD-2025-0437,2025-05-12,CUST-0105,Lucas Campbell,Brighton,South East,Camping Lantern,Outdoor,1,33.65,33.65,21.12,12.53,Credit Card,Marketplace
+604,ORD-2025-0438,2025-05-12,CUST-0119,Ethan Phillips,Leeds,Yorkshire,Yoga Mat,Fitness,3,25.49,76.47,41.12,35.35,Apple Pay,Retail Store
+605,ORD-2025-0438,2025-05-12,CUST-0119,Ethan Phillips,Leeds,Yorkshire,USB-C Hub,Electronics,1,45.89,45.89,30.16,15.73,Apple Pay,Retail Store
+606,ORD-2025-0438,2025-05-12,CUST-0119,Ethan Phillips,Leeds,Yorkshire,Electric Kettle,Home & Kitchen,1,35.69,35.69,23.10,12.59,Apple Pay,Retail Store
+607,ORD-2025-0439,2025-05-12,CUST-0166,Freddie Baker,Liverpool,North West,Hiking Backpack 30L,Outdoor,3,67.82,203.46,146.28,57.18,Credit Card,Retail Store
+608,ORD-2025-0439,2025-05-12,CUST-0166,Freddie Baker,Liverpool,North West,Gel Pen Set,Office,2,9.17,18.34,8.58,9.76,Credit Card,Retail Store
+609,ORD-2025-0440,2025-05-12,CUST-0173,James Evans,Nottingham,Midlands,Two-Drawer Filing Cabinet,Office,1,110.15,110.15,90.09,20.06,PayPal,Online
+610,ORD-2025-0441,2025-05-13,CUST-0026,Ethan James,Liverpool,North West,Portable SSD 1TB,Electronics,1,96.89,96.89,74.75,22.14,Debit Card,Online
+611,ORD-2025-0441,2025-05-13,CUST-0026,Ethan James,Liverpool,North West,Cordless Vacuum,Home & Kitchen,1,173.39,173.39,138.94,34.45,Debit Card,Online
+612,ORD-2025-0442,2025-05-13,CUST-0169,Eleanor Hughes,Belfast,Northern Ireland,USB-C Hub,Electronics,1,43.60,43.60,31.72,11.88,PayPal,Marketplace
+613,ORD-2025-0443,2025-05-14,CUST-0087,Olivia Clark,London,London,Noise-Cancelling Headphones,Electronics,1,142.79,142.79,112.31,30.48,Cash,Retail Store
+614,ORD-2025-0443,2025-05-14,CUST-0087,Olivia Clark,London,London,USB-C Hub,Electronics,1,43.60,43.60,29.97,13.63,Cash,Retail Store
+615,ORD-2025-0444,2025-05-14,CUST-0112,Harry Roberts,Birmingham,Midlands,Wireless Mouse,Electronics,3,25.49,76.47,46.06,30.41,Debit Card,Online
+616,ORD-2025-0444,2025-05-14,CUST-0112,Harry Roberts,Birmingham,Midlands,Portable SSD 1TB,Electronics,1,96.89,96.89,74.75,22.14,Debit Card,Online
+617,ORD-2025-0445,2025-05-15,CUST-0019,Eleanor Bennett,Sheffield,Yorkshire,Notebook Set,Office,1,13.25,13.25,6.27,6.98,Apple Pay,Online
+618,ORD-2025-0446,2025-05-16,CUST-0060,Zoe Johnson,Liverpool,North West,Wireless Mouse,Electronics,1,25.49,25.49,15.35,10.14,Debit Card,Online
+619,ORD-2025-0446,2025-05-16,CUST-0060,Zoe Johnson,Liverpool,North West,Notebook Set,Office,2,13.25,26.50,12.53,13.97,Debit Card,Online
+620,ORD-2025-0446,2025-05-16,CUST-0060,Zoe Johnson,Liverpool,North West,Adjustable Dumbbell Set,Fitness,1,69.35,69.35,59.89,9.46,Debit Card,Online
+621,ORD-2025-0447,2025-05-16,CUST-0099,William Green,Birmingham,Midlands,Hiking Backpack 30L,Outdoor,2,71.39,142.78,94.52,48.26,Debit Card,Online
+622,ORD-2025-0448,2025-05-18,CUST-0082,Emily Taylor,Leeds,Yorkshire,Printer Paper Pack,Office,2,7.74,15.48,8.64,6.84,Credit Card,Online
+623,ORD-2025-0448,2025-05-18,CUST-0082,Emily Taylor,Leeds,Yorkshire,Notebook Set,Office,1,12.59,12.59,6.23,6.36,Credit Card,Online
+624,ORD-2025-0449,2025-05-20,CUST-0103,Zoe Phillips,Newcastle,North East,LED Desk Lamp,Home & Kitchen,1,27.53,27.53,16.43,11.10,Apple Pay,Online
+625,ORD-2025-0450,2025-05-22,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Cookware Set,Home & Kitchen,2,106.58,213.16,177.41,35.75,Credit Card,Marketplace
+626,ORD-2025-0450,2025-05-22,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Filter Coffee Maker,Home & Kitchen,1,65.27,65.27,59.79,5.48,Credit Card,Marketplace
+627,ORD-2025-0451,2025-05-22,CUST-0015,Jessica Miller,London,London,Stainless Steel Travel Mug,Outdoor,2,20.39,40.78,20.10,20.68,PayPal,Online
+628,ORD-2025-0452,2025-05-24,CUST-0007,Zara Singh,Southampton,South East,Garden Tool Set,Outdoor,2,45.89,91.78,56.66,35.12,Debit Card,Retail Store
+629,ORD-2025-0453,2025-05-24,CUST-0083,Leo Evans,Manchester,North West,Laptop Stand,Electronics,3,40.79,122.37,71.27,51.10,Credit Card,Phone
+630,ORD-2025-0454,2025-05-30,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Yoga Mat,Fitness,4,24.22,96.88,58.30,38.58,PayPal,Marketplace
+631,ORD-2025-0454,2025-05-30,CUST-0042,Samuel Roberts,Sheffield,Yorkshire,Insulated Sports Bottle,Fitness,4,13.76,55.04,30.95,24.09,PayPal,Marketplace
+632,ORD-2025-0455,2025-06-03,CUST-0045,Harry Evans,Nottingham,Midlands,Wireless Mouse,Electronics,1,25.49,25.49,15.35,10.14,Debit Card,Online
+633,ORD-2025-0456,2025-06-03,CUST-0082,Emily Taylor,Leeds,Yorkshire,Gel Pen Set,Office,2,9.17,18.34,8.13,10.21,PayPal,Online
+634,ORD-2025-0457,2025-06-05,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Camping Lantern,Outdoor,3,31.97,95.91,56.51,39.40,PayPal,Online
+635,ORD-2025-0458,2025-06-06,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Printer Paper Pack,Office,1,8.15,8.15,4.34,3.81,Debit Card,Online
+636,ORD-2025-0458,2025-06-06,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Cordless Vacuum,Home & Kitchen,2,173.39,346.78,277.88,68.90,Debit Card,Online
+637,ORD-2025-0459,2025-06-07,CUST-0005,Olivia Singh,Liverpool,North West,Hiking Backpack 30L,Outdoor,4,64.25,257.00,193.90,63.10,Credit Card,Retail Store
+638,ORD-2025-0460,2025-06-08,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Printer Paper Pack,Office,1,7.74,7.74,4.32,3.42,Debit Card,Online
+639,ORD-2025-0460,2025-06-08,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Waterproof Picnic Blanket,Outdoor,6,28.55,171.30,86.13,85.17,Debit Card,Online
+640,ORD-2025-0461,2025-06-08,CUST-0094,Leo Patel,Exeter,South West,Insulated Sports Bottle,Fitness,1,15.29,15.29,6.93,8.36,Debit Card,Online
+641,ORD-2025-0461,2025-06-08,CUST-0094,Leo Patel,Exeter,South West,Adjustable Monitor Arm,Office,1,76.49,76.49,51.40,25.09,Debit Card,Online
+642,ORD-2025-0461,2025-06-08,CUST-0094,Leo Patel,Exeter,South West,Stainless Steel Travel Mug,Outdoor,1,20.39,20.39,10.05,10.34,Debit Card,Online
+643,ORD-2025-0462,2025-06-10,CUST-0020,Samuel Martin,Manchester,North West,Hiking Backpack 30L,Outdoor,3,67.82,203.46,146.28,57.18,Credit Card,Retail Store
+644,ORD-2025-0462,2025-06-10,CUST-0020,Samuel Martin,Manchester,North West,Wireless Mouse,Electronics,2,25.49,50.98,31.98,19.00,Credit Card,Retail Store
+645,ORD-2025-0463,2025-06-11,CUST-0133,Layla Morgan,Sheffield,Yorkshire,Bluetooth Speaker,Electronics,2,56.09,112.18,73.15,39.03,PayPal,Online
+646,ORD-2025-0463,2025-06-11,CUST-0133,Layla Morgan,Sheffield,Yorkshire,USB-C Hub,Electronics,3,45.89,137.67,87.03,50.64,PayPal,Online
+647,ORD-2025-0463,2025-06-11,CUST-0133,Layla Morgan,Sheffield,Yorkshire,Waterproof Picnic Blanket,Outdoor,1,28.55,28.55,14.35,14.20,PayPal,Online
+648,ORD-2025-0464,2025-06-14,CUST-0068,Leo Hall,Southampton,South East,Air Fryer,Home & Kitchen,1,87.20,87.20,67.26,19.94,Apple Pay,Retail Store
+649,ORD-2025-0465,2025-06-14,CUST-0150,Zoe Harris,Newcastle,North East,Hiking Backpack 30L,Outdoor,3,64.25,192.75,140.60,52.15,Credit Card,Online
+650,ORD-2025-0465,2025-06-14,CUST-0150,Zoe Harris,Newcastle,North East,Mechanical Keyboard,Electronics,1,71.39,71.39,47.26,24.13,Credit Card,Online
+651,ORD-2025-0465,2025-06-14,CUST-0150,Zoe Harris,Newcastle,North East,Cookware Set,Home & Kitchen,1,112.19,112.19,82.09,30.10,Credit Card,Online
+652,ORD-2025-0466,2025-06-16,CUST-0008,William Walker,Glasgow,Scotland,Full HD Webcam,Electronics,1,61.19,61.19,41.73,19.46,Apple Pay,Online
+653,ORD-2025-0466,2025-06-16,CUST-0008,William Walker,Glasgow,Scotland,Camping Lantern,Outdoor,2,33.65,67.30,37.86,29.44,Apple Pay,Online
+654,ORD-2025-0467,2025-06-17,CUST-0003,Imogen Morris,Glasgow,Scotland,Resistance Band Set,Fitness,2,19.37,38.74,18.71,20.03,Debit Card,Online
+655,ORD-2025-0467,2025-06-17,CUST-0003,Imogen Morris,Glasgow,Scotland,Bluetooth Speaker,Electronics,1,53.29,53.29,36.42,16.87,Debit Card,Online
+656,ORD-2025-0467,2025-06-17,CUST-0003,Imogen Morris,Glasgow,Scotland,Gel Pen Set,Office,2,9.17,18.34,8.13,10.21,Debit Card,Online
+657,ORD-2025-0468,2025-06-17,CUST-0011,Thomas Ahmed,Liverpool,North West,Ergonomic Desk Chair,Office,1,203.99,203.99,161.43,42.56,Apple Pay,Online
+658,ORD-2025-0469,2025-06-17,CUST-0156,Lucas Wilson,Brighton,South East,Waterproof Picnic Blanket,Outdoor,3,25.69,77.07,42.59,34.48,PayPal,Online
+659,ORD-2025-0469,2025-06-17,CUST-0156,Lucas Wilson,Brighton,South East,Air Fryer,Home & Kitchen,1,82.61,82.61,64.83,17.78,PayPal,Online
+660,ORD-2025-0470,2025-06-21,CUST-0011,Thomas Ahmed,Liverpool,North West,Cordless Vacuum,Home & Kitchen,2,164.72,329.44,280.22,49.22,Debit Card,Phone
+661,ORD-2025-0470,2025-06-21,CUST-0011,Thomas Ahmed,Liverpool,North West,Resistance Band Set,Fitness,2,18.40,36.80,18.97,17.83,Debit Card,Phone
+662,ORD-2025-0471,2025-06-24,CUST-0026,Ethan James,Liverpool,North West,Noise-Cancelling Headphones,Electronics,2,142.79,285.58,217.47,68.11,Apple Pay,Online
+663,ORD-2025-0472,2025-06-30,CUST-0164,Layla Lewis,Brighton,South East,Notebook Set,Office,1,13.25,13.25,6.27,6.98,PayPal,Online
+664,ORD-2025-0472,2025-06-30,CUST-0164,Layla Lewis,Brighton,South East,Cookware Set,Home & Kitchen,2,106.58,213.16,163.55,49.61,PayPal,Online
+665,ORD-2025-0473,2025-07-01,CUST-0025,Imogen Carter,Norwich,East,Wireless Mouse,Electronics,1,25.49,25.49,15.35,10.14,Debit Card,Online
+666,ORD-2025-0474,2025-07-03,CUST-0014,Samuel Edwards,Cardiff,Wales,Garden Tool Set,Outdoor,1,45.89,45.89,30.17,15.72,PayPal,Marketplace
+667,ORD-2025-0474,2025-07-03,CUST-0014,Samuel Edwards,Cardiff,Wales,Gel Pen Set,Office,1,9.17,9.17,4.66,4.51,PayPal,Marketplace
+668,ORD-2025-0474,2025-07-03,CUST-0014,Samuel Edwards,Cardiff,Wales,Camping Lantern,Outdoor,2,33.65,67.30,42.23,25.07,PayPal,Marketplace
+669,ORD-2025-0475,2025-07-03,CUST-0047,Alice Phillips,London,London,Stainless Steel Travel Mug,Outdoor,2,18.35,36.70,20.79,15.91,Debit Card,Retail Store
+670,ORD-2025-0476,2025-07-04,CUST-0120,Noah Wilson,Edinburgh,Scotland,Foam Roller,Fitness,1,27.53,27.53,16.45,11.08,Debit Card,Marketplace
+671,ORD-2025-0477,2025-07-04,CUST-0144,Amelia Shah,Nottingham,Midlands,Mechanical Keyboard,Electronics,1,71.39,71.39,47.26,24.13,Debit Card,Online
+672,ORD-2025-0478,2025-07-06,CUST-0136,Sofia Taylor,Nottingham,Midlands,Printer Paper Pack,Office,4,8.15,32.60,18.18,14.42,Cash,Retail Store
+673,ORD-2025-0478,2025-07-06,CUST-0136,Sofia Taylor,Nottingham,Midlands,Noise-Cancelling Headphones,Electronics,1,135.65,135.65,111.74,23.91,Cash,Retail Store
+674,ORD-2025-0479,2025-07-07,CUST-0004,Olivia Carter,Leeds,Yorkshire,Full HD Webcam,Electronics,4,61.19,244.76,166.90,77.86,Debit Card,Online
+675,ORD-2025-0480,2025-07-09,CUST-0026,Ethan James,Liverpool,North West,Foam Roller,Fitness,3,27.53,82.59,49.36,33.23,Debit Card,Marketplace
+676,ORD-2025-0481,2025-07-12,CUST-0020,Samuel Martin,Manchester,North West,Foam Roller,Fitness,1,24.78,24.78,15.13,9.65,Debit Card,Retail Store
+677,ORD-2025-0481,2025-07-12,CUST-0020,Samuel Martin,Manchester,North West,Camping Lantern,Outdoor,3,33.65,100.95,59.31,41.64,Debit Card,Retail Store
+678,ORD-2025-0482,2025-07-13,CUST-0027,Joseph King,Sheffield,Yorkshire,USB-C Hub,Electronics,1,43.60,43.60,29.32,14.28,Credit Card,Phone
+679,ORD-2025-0482,2025-07-13,CUST-0027,Joseph King,Sheffield,Yorkshire,Waterproof Picnic Blanket,Outdoor,1,28.55,28.55,14.64,13.91,Credit Card,Phone
+680,ORD-2025-0483,2025-07-15,CUST-0001,Imogen Roberts,Bristol,South West,Waterproof Picnic Blanket,Outdoor,1,28.55,28.55,16.21,12.34,Debit Card,Marketplace
+681,ORD-2025-0484,2025-07-17,CUST-0011,Thomas Ahmed,Liverpool,North West,Wireless Mouse,Electronics,3,24.22,72.66,45.85,26.81,Gift Card,Online
+682,ORD-2025-0485,2025-07-17,CUST-0075,Sofia Robinson,Manchester,North West,Resistance Band Set,Fitness,1,18.40,18.40,9.30,9.10,PayPal,Online
+683,ORD-2025-0486,2025-07-18,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Laptop Stand,Electronics,3,40.79,122.37,71.27,51.10,Credit Card,Phone
+684,ORD-2025-0486,2025-07-18,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Foam Roller,Fitness,6,24.78,148.68,88.56,60.12,Credit Card,Phone
+685,ORD-2025-0487,2025-07-18,CUST-0080,Mohammed Taylor,Brighton,South East,Gel Pen Set,Office,2,8.71,17.42,8.08,9.34,Credit Card,Online
+686,ORD-2025-0487,2025-07-18,CUST-0080,Mohammed Taylor,Brighton,South East,LED Desk Lamp,Home & Kitchen,1,29.06,29.06,16.51,12.55,Credit Card,Online
+687,ORD-2025-0488,2025-07-20,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,LED Desk Lamp,Home & Kitchen,1,30.59,30.59,18.59,12.00,PayPal,Marketplace
+688,ORD-2025-0489,2025-07-20,CUST-0180,Daniel Green,Leeds,Yorkshire,Printer Paper Pack,Office,3,7.74,23.22,12.96,10.26,PayPal,Online
+689,ORD-2025-0490,2025-07-23,CUST-0008,William Walker,Glasgow,Scotland,Insulated Sports Bottle,Fitness,2,13.76,27.52,13.69,13.83,Apple Pay,Online
+690,ORD-2025-0491,2025-07-23,CUST-0112,Harry Roberts,Birmingham,Midlands,Wireless Mouse,Electronics,1,25.49,25.49,15.99,9.50,Debit Card,Retail Store
+691,ORD-2025-0492,2025-07-23,CUST-0165,Zara Shah,London,London,Adjustable Dumbbell Set,Fitness,2,86.69,173.38,126.01,47.37,Debit Card,Retail Store
+692,ORD-2025-0493,2025-07-25,CUST-0012,Leo Robinson,Manchester,North West,Yoga Mat,Fitness,1,21.67,21.67,13.08,8.59,Credit Card,Phone
+693,ORD-2025-0493,2025-07-25,CUST-0012,Leo Robinson,Manchester,North West,Cookware Set,Home & Kitchen,1,112.19,112.19,83.21,28.98,Credit Card,Phone
+694,ORD-2025-0494,2025-07-30,CUST-0008,William Walker,Glasgow,Scotland,Printer Paper Pack,Office,1,7.74,7.74,4.32,3.42,Apple Pay,Online
+695,ORD-2025-0495,2025-07-31,CUST-0038,Maya Patel,Manchester,North West,Adjustable Dumbbell Set,Fitness,2,86.69,173.38,121.68,51.70,Credit Card,Online
+696,ORD-2025-0495,2025-07-31,CUST-0038,Maya Patel,Manchester,North West,Yoga Mat,Fitness,2,25.49,50.98,26.14,24.84,Credit Card,Online
+697,ORD-2025-0496,2025-07-31,CUST-0049,Charlotte Phillips,Cambridge,East,Gel Pen Set,Office,2,9.17,18.34,8.31,10.03,Credit Card,Phone
+698,ORD-2025-0497,2025-07-31,CUST-0118,Olivia Foster,Manchester,North West,LED Desk Lamp,Home & Kitchen,3,27.53,82.59,51.35,31.24,Apple Pay,Retail Store
+699,ORD-2025-0498,2025-08-02,CUST-0029,Alice Campbell,Bristol,South West,Camping Lantern,Outdoor,2,33.65,67.30,42.23,25.07,Debit Card,Marketplace
+700,ORD-2025-0499,2025-08-03,CUST-0083,Leo Evans,Manchester,North West,Wireless Mouse,Electronics,1,25.49,25.49,15.99,9.50,Credit Card,Retail Store
+701,ORD-2025-0499,2025-08-03,CUST-0083,Leo Evans,Manchester,North West,Printer Paper Pack,Office,2,8.15,16.30,9.09,7.21,Credit Card,Retail Store
+702,ORD-2025-0500,2025-08-04,CUST-0010,Charlotte Martin,Brighton,South East,Camping Lantern,Outdoor,3,31.97,95.91,57.47,38.44,Debit Card,Phone
+703,ORD-2025-0501,2025-08-05,CUST-0148,Mohammed Hall,Bristol,South West,Garden Tool Set,Outdoor,1,45.89,45.89,28.33,17.56,Cash,Retail Store
+704,ORD-2025-0501,2025-08-05,CUST-0148,Mohammed Hall,Bristol,South West,Mechanical Keyboard,Electronics,1,71.39,71.39,49.05,22.34,Cash,Retail Store
+705,ORD-2025-0501,2025-08-05,CUST-0148,Mohammed Hall,Bristol,South West,Insulated Sports Bottle,Fitness,1,15.29,15.29,7.31,7.98,Cash,Retail Store
+706,ORD-2025-0502,2025-08-06,CUST-0057,Mohammed Walker,Brighton,South East,Noise-Cancelling Headphones,Electronics,3,142.79,428.37,354.06,74.31,Credit Card,Marketplace
+707,ORD-2025-0503,2025-08-07,CUST-0113,Priya Martin,Cambridge,East,Hiking Backpack 30L,Outdoor,1,67.82,67.82,47.06,20.76,PayPal,Online
+708,ORD-2025-0504,2025-08-08,CUST-0029,Alice Campbell,Bristol,South West,Foam Roller,Fitness,1,26.15,26.15,14.59,11.56,Credit Card,Online
+709,ORD-2025-0505,2025-08-08,CUST-0155,Maya Smith,Leeds,Yorkshire,Adjustable Monitor Arm,Office,3,72.67,218.01,155.74,62.27,Credit Card,Phone
+710,ORD-2025-0505,2025-08-08,CUST-0155,Maya Smith,Leeds,Yorkshire,Electric Kettle,Home & Kitchen,3,30.34,91.02,66.65,24.37,Credit Card,Phone
+711,ORD-2025-0506,2025-08-09,CUST-0012,Leo Robinson,Manchester,North West,USB-C Hub,Electronics,1,45.89,45.89,30.16,15.73,Debit Card,Retail Store
+712,ORD-2025-0507,2025-08-12,CUST-0015,Jessica Miller,London,London,Wireless Mouse,Electronics,1,20.39,20.39,15.58,4.81,Credit Card,Retail Store
+713,ORD-2025-0508,2025-08-12,CUST-0070,Ethan King,Leeds,Yorkshire,LED Desk Lamp,Home & Kitchen,1,30.59,30.59,17.36,13.23,Debit Card,Retail Store
+714,ORD-2025-0509,2025-08-19,CUST-0020,Samuel Martin,Manchester,North West,Notebook Set,Office,1,13.25,13.25,7.13,6.12,PayPal,Marketplace
+715,ORD-2025-0510,2025-08-20,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Foam Roller,Fitness,3,24.78,74.34,43.54,30.80,Debit Card,Online
+716,ORD-2025-0510,2025-08-20,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Stainless Steel Travel Mug,Outdoor,2,20.39,40.78,20.10,20.68,Debit Card,Online
+717,ORD-2025-0511,2025-08-20,CUST-0173,James Evans,Nottingham,Midlands,Wireless Mouse,Electronics,2,25.49,50.98,34.02,16.96,Credit Card,Marketplace
+718,ORD-2025-0512,2025-08-23,CUST-0004,Olivia Carter,Leeds,Yorkshire,Portable SSD 1TB,Electronics,1,96.89,96.89,75.72,21.17,Credit Card,Phone
+719,ORD-2025-0512,2025-08-23,CUST-0004,Olivia Carter,Leeds,Yorkshire,Stainless Steel Travel Mug,Outdoor,3,20.39,61.17,30.76,30.41,Credit Card,Phone
+720,ORD-2025-0512,2025-08-23,CUST-0004,Olivia Carter,Leeds,Yorkshire,Resistance Band Set,Fitness,1,17.43,17.43,9.42,8.01,Credit Card,Phone
+721,ORD-2025-0513,2025-08-24,CUST-0020,Samuel Martin,Manchester,North West,Portable SSD 1TB,Electronics,1,96.89,96.89,77.17,19.72,Credit Card,Retail Store
+722,ORD-2025-0514,2025-08-24,CUST-0040,Ethan Hall,Brighton,South East,Laptop Stand,Electronics,3,40.79,122.37,70.05,52.32,Debit Card,Online
+723,ORD-2025-0514,2025-08-24,CUST-0040,Ethan Hall,Brighton,South East,Resistance Band Set,Fitness,1,19.37,19.37,9.35,10.02,Debit Card,Online
+724,ORD-2025-0515,2025-08-25,CUST-0017,Emily Singh,Glasgow,Scotland,Stainless Steel Travel Mug,Outdoor,3,20.39,61.17,30.15,31.02,Apple Pay,Online
+725,ORD-2025-0515,2025-08-25,CUST-0017,Emily Singh,Glasgow,Scotland,Gel Pen Set,Office,1,9.17,9.17,4.06,5.11,Apple Pay,Online
+726,ORD-2025-0516,2025-09-04,CUST-0025,Imogen Carter,Norwich,East,Foam Roller,Fitness,1,27.53,27.53,14.66,12.87,Apple Pay,Online
+727,ORD-2025-0517,2025-09-04,CUST-0056,Maya Taylor,Leeds,Yorkshire,Resistance Band Set,Fitness,1,19.37,19.37,9.35,10.02,Credit Card,Online
+728,ORD-2025-0518,2025-09-06,CUST-0013,Lucas Roberts,Sheffield,Yorkshire,Gel Pen Set,Office,1,9.17,9.17,4.29,4.88,Debit Card,Retail Store
+729,ORD-2025-0519,2025-09-07,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Insulated Sports Bottle,Fitness,5,13.76,68.80,35.93,32.87,Gift Card,Retail Store
+730,ORD-2025-0520,2025-09-08,CUST-0001,Imogen Roberts,Bristol,South West,Notebook Set,Office,1,12.59,12.59,6.54,6.05,Apple Pay,Retail Store
+731,ORD-2025-0521,2025-09-08,CUST-0077,Samuel Miller,Leeds,Yorkshire,USB-C Hub,Electronics,1,45.89,45.89,29.47,16.42,Bank Transfer,Phone
+732,ORD-2025-0522,2025-09-08,CUST-0145,Ethan Campbell,Exeter,South West,Printer Paper Pack,Office,2,8.15,16.30,9.09,7.21,Gift Card,Retail Store
+733,ORD-2025-0523,2025-09-13,CUST-0087,Olivia Clark,London,London,Full HD Webcam,Electronics,1,61.19,61.19,45.70,15.49,Credit Card,Marketplace
+734,ORD-2025-0523,2025-09-13,CUST-0087,Olivia Clark,London,London,Camping Lantern,Outdoor,2,30.28,60.56,41.42,19.14,Credit Card,Marketplace
+735,ORD-2025-0524,2025-09-14,CUST-0125,Zara Edwards,London,London,LED Desk Lamp,Home & Kitchen,1,30.59,30.59,16.90,13.69,Debit Card,Phone
+736,ORD-2025-0524,2025-09-14,CUST-0125,Zara Edwards,London,London,Insulated Sports Bottle,Fitness,3,15.29,45.87,21.24,24.63,Debit Card,Phone
+737,ORD-2025-0525,2025-09-14,CUST-0149,Emily Jackson,Birmingham,Midlands,Resistance Band Set,Fitness,2,18.40,36.80,19.52,17.28,Cash,Retail Store
+738,ORD-2025-0525,2025-09-14,CUST-0149,Emily Jackson,Birmingham,Midlands,Stainless Steel Travel Mug,Outdoor,1,19.37,19.37,10.48,8.89,Cash,Retail Store
+739,ORD-2025-0526,2025-09-15,CUST-0179,Aisha Evans,Nottingham,Midlands,Wireless Mouse,Electronics,1,24.22,24.22,15.28,8.94,PayPal,Online
+740,ORD-2025-0527,2025-09-16,CUST-0035,Oscar Collins,London,London,Notebook Set,Office,1,13.25,13.25,7.13,6.12,PayPal,Marketplace
+741,ORD-2025-0528,2025-09-17,CUST-0001,Imogen Roberts,Bristol,South West,Resistance Band Set,Fitness,3,19.37,58.11,28.06,30.05,Credit Card,Online
+742,ORD-2025-0528,2025-09-17,CUST-0001,Imogen Roberts,Bristol,South West,Insulated Sports Bottle,Fitness,3,15.29,45.87,20.78,25.09,Credit Card,Online
+743,ORD-2025-0528,2025-09-17,CUST-0001,Imogen Roberts,Bristol,South West,Camping Lantern,Outdoor,1,31.97,31.97,18.84,13.13,Credit Card,Online
+744,ORD-2025-0529,2025-09-17,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Camping Lantern,Outdoor,1,33.65,33.65,18.93,14.72,Credit Card,Online
+745,ORD-2025-0530,2025-09-19,CUST-0030,Eleanor Morris,Sheffield,Yorkshire,Mechanical Keyboard,Electronics,1,71.39,71.39,47.26,24.13,PayPal,Online
+746,ORD-2025-0531,2025-09-19,CUST-0134,Aisha Hughes,Leeds,Yorkshire,Yoga Mat,Fitness,2,25.49,50.98,26.14,24.84,Debit Card,Online
+747,ORD-2025-0532,2025-09-21,CUST-0092,Ethan Smith,London,London,Wireless Mouse,Electronics,1,25.49,25.49,15.35,10.14,Credit Card,Online
+748,ORD-2025-0532,2025-09-21,CUST-0092,Ethan Smith,London,London,Foam Roller,Fitness,2,27.53,55.06,29.33,25.73,Credit Card,Online
+749,ORD-2025-0533,2025-09-24,CUST-0096,Zara James,Norwich,East,Camping Lantern,Outdoor,1,31.97,31.97,19.16,12.81,Debit Card,Phone
+750,ORD-2025-0534,2025-09-25,CUST-0009,Maya Wilson,Brighton,South East,Portable SSD 1TB,Electronics,1,96.89,96.89,74.75,22.14,Apple Pay,Online
+751,ORD-2025-0535,2025-09-25,CUST-0041,Emily Thomas,Liverpool,North West,USB-C Hub,Electronics,3,45.89,137.67,88.41,49.26,Credit Card,Phone
+752,ORD-2025-0535,2025-09-25,CUST-0041,Emily Thomas,Liverpool,North West,Laptop Stand,Electronics,1,40.79,40.79,23.76,17.03,Credit Card,Phone
+753,ORD-2025-0536,2025-09-26,CUST-0039,Oscar Lewis,Cambridge,East,Foam Roller,Fitness,1,27.53,27.53,15.35,12.18,Debit Card,Retail Store
+754,ORD-2025-0537,2025-09-26,CUST-0133,Layla Morgan,Sheffield,Yorkshire,Waterproof Picnic Blanket,Outdoor,3,28.55,85.65,48.63,37.02,PayPal,Marketplace
+755,ORD-2025-0538,2025-09-26,CUST-0171,Layla Hughes,Southampton,South East,Wireless Mouse,Electronics,1,25.49,25.49,15.35,10.14,Debit Card,Online
+756,ORD-2025-0539,2025-09-26,CUST-0177,Eleanor Mitchell,Edinburgh,Scotland,Cordless Vacuum,Home & Kitchen,1,164.72,164.72,142.58,22.14,Debit Card,Retail Store
+757,ORD-2025-0540,2025-09-27,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Resistance Band Set,Fitness,2,19.37,38.74,18.71,20.03,Credit Card,Online
+758,ORD-2025-0540,2025-09-27,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Yoga Mat,Fitness,2,25.49,50.98,26.14,24.84,Credit Card,Online
+759,ORD-2025-0541,2025-09-27,CUST-0028,Amelia Roberts,London,London,Garden Tool Set,Outdoor,1,45.89,45.89,30.17,15.72,Credit Card,Marketplace
+760,ORD-2025-0542,2025-09-28,CUST-0100,Aisha Clark,Norwich,East,Wireless Mouse,Electronics,1,25.49,25.49,15.99,9.50,Apple Pay,Retail Store
+761,ORD-2025-0543,2025-09-29,CUST-0066,Thomas Foster,London,London,Waterproof Picnic Blanket,Outdoor,2,28.55,57.10,28.71,28.39,Debit Card,Online
+762,ORD-2025-0544,2025-10-01,CUST-0156,Lucas Wilson,Brighton,South East,Two-Drawer Filing Cabinet,Office,1,110.15,110.15,90.09,20.06,Credit Card,Online
+763,ORD-2025-0545,2025-10-02,CUST-0156,Lucas Wilson,Brighton,South East,Foam Roller,Fitness,4,24.78,99.12,59.04,40.08,Credit Card,Phone
+764,ORD-2025-0546,2025-10-05,CUST-0114,Chloe Green,Bristol,South West,Adjustable Dumbbell Set,Fitness,1,86.69,86.69,63.01,23.68,Cash,Retail Store
+765,ORD-2025-0546,2025-10-05,CUST-0114,Chloe Green,Bristol,South West,Stainless Steel Travel Mug,Outdoor,2,20.39,40.78,21.12,19.66,Cash,Retail Store
+766,ORD-2025-0547,2025-10-05,CUST-0161,Joseph Patel,Birmingham,Midlands,Adjustable Dumbbell Set,Fitness,1,86.69,86.69,61.71,24.98,Credit Card,Phone
+767,ORD-2025-0548,2025-10-06,CUST-0050,Zara Foster,London,London,USB-C Hub,Electronics,1,45.89,45.89,29.01,16.88,Credit Card,Online
+768,ORD-2025-0549,2025-10-08,CUST-0020,Samuel Martin,Manchester,North West,Portable SSD 1TB,Electronics,2,96.89,193.78,149.50,44.28,Debit Card,Online
+769,ORD-2025-0549,2025-10-08,CUST-0020,Samuel Martin,Manchester,North West,Yoga Mat,Fitness,1,24.22,24.22,13.00,11.22,Debit Card,Online
+770,ORD-2025-0550,2025-10-09,CUST-0147,Jessica Patel,Brighton,South East,Insulated Sports Bottle,Fitness,2,15.29,30.58,13.85,16.73,Debit Card,Online
+771,ORD-2025-0551,2025-10-10,CUST-0007,Zara Singh,Southampton,South East,Yoga Mat,Fitness,1,25.49,25.49,14.73,10.76,Debit Card,Marketplace
+772,ORD-2025-0552,2025-10-13,CUST-0007,Zara Singh,Southampton,South East,Portable SSD 1TB,Electronics,3,96.89,290.67,224.24,66.43,Apple Pay,Online
+773,ORD-2025-0553,2025-10-13,CUST-0117,Priya Patel,Liverpool,North West,Resistance Band Set,Fitness,1,19.37,19.37,9.84,9.53,Debit Card,Retail Store
+774,ORD-2025-0554,2025-10-14,CUST-0049,Charlotte Phillips,Cambridge,East,Filter Coffee Maker,Home & Kitchen,3,81.59,244.77,175.47,69.30,Debit Card,Retail Store
+775,ORD-2025-0555,2025-10-16,CUST-0023,Emily Davies,Cardiff,Wales,Ergonomic Desk Chair,Office,1,203.99,203.99,174.69,29.30,PayPal,Marketplace
+776,ORD-2025-0555,2025-10-16,CUST-0023,Emily Davies,Cardiff,Wales,Gel Pen Set,Office,1,9.17,9.17,4.66,4.51,PayPal,Marketplace
+777,ORD-2025-0556,2025-10-16,CUST-0029,Alice Campbell,Bristol,South West,Mechanical Keyboard,Electronics,3,71.39,214.17,141.78,72.39,Apple Pay,Online
+778,ORD-2025-0557,2025-10-16,CUST-0068,Leo Hall,Southampton,South East,Cookware Set,Home & Kitchen,1,112.19,112.19,84.89,27.30,Debit Card,Retail Store
+779,ORD-2025-0558,2025-10-16,CUST-0157,Maya Mitchell,London,London,Laptop Stand,Electronics,2,38.75,77.50,48.41,29.09,Debit Card,Retail Store
+780,ORD-2025-0559,2025-10-18,CUST-0046,Imogen Green,London,London,Camping Lantern,Outdoor,4,33.65,134.60,79.08,55.52,Cash,Retail Store
+781,ORD-2025-0560,2025-10-19,CUST-0048,Maya Green,Belfast,Northern Ireland,Resistance Band Set,Fitness,5,18.40,92.00,46.50,45.50,Debit Card,Online
+782,ORD-2025-0561,2025-10-19,CUST-0174,Amelia Morris,Manchester,North West,Insulated Sports Bottle,Fitness,2,15.29,30.58,15.84,14.74,Credit Card,Marketplace
+783,ORD-2025-0561,2025-10-19,CUST-0174,Amelia Morris,Manchester,North West,Adjustable Monitor Arm,Office,3,76.49,229.47,169.11,60.36,Credit Card,Marketplace
+784,ORD-2025-0562,2025-10-21,CUST-0001,Imogen Roberts,Bristol,South West,Camping Lantern,Outdoor,3,33.65,100.95,63.35,37.60,Debit Card,Marketplace
+785,ORD-2025-0563,2025-10-23,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Cookware Set,Home & Kitchen,1,106.58,106.58,81.78,24.80,Credit Card,Online
+786,ORD-2025-0564,2025-10-26,CUST-0163,Fatima Cooper,Edinburgh,Scotland,Insulated Sports Bottle,Fitness,1,15.29,15.29,6.93,8.36,Debit Card,Online
+787,ORD-2025-0565,2025-10-27,CUST-0007,Zara Singh,Southampton,South East,Adjustable Monitor Arm,Office,2,72.67,145.34,102.38,42.96,Debit Card,Online
+788,ORD-2025-0566,2025-10-28,CUST-0001,Imogen Roberts,Bristol,South West,Resistance Band Set,Fitness,1,19.37,19.37,9.84,9.53,Debit Card,Retail Store
+789,ORD-2025-0567,2025-10-28,CUST-0026,Ethan James,Liverpool,North West,Laptop Stand,Electronics,3,40.79,122.37,73.11,49.26,Apple Pay,Retail Store
+790,ORD-2025-0567,2025-10-28,CUST-0026,Ethan James,Liverpool,North West,USB-C Hub,Electronics,3,39.01,117.03,88.82,28.21,Apple Pay,Retail Store
+791,ORD-2025-0568,2025-10-29,CUST-0115,Grace Robinson,Bristol,South West,Camping Lantern,Outdoor,3,28.60,85.80,55.95,29.85,Credit Card,Online
+792,ORD-2025-0569,2025-10-30,CUST-0011,Thomas Ahmed,Liverpool,North West,Notebook Set,Office,1,12.59,12.59,6.23,6.36,Credit Card,Online
+793,ORD-2025-0570,2025-10-30,CUST-0039,Oscar Lewis,Cambridge,East,Air Fryer,Home & Kitchen,1,91.79,91.79,65.33,26.46,PayPal,Online
+794,ORD-2025-0571,2025-10-31,CUST-0031,James Khan,Bristol,South West,Printer Paper Pack,Office,1,8.15,8.15,4.34,3.81,Apple Pay,Online
+795,ORD-2025-0572,2025-10-31,CUST-0151,Chloe Smith,Cardiff,Wales,Laptop Stand,Electronics,1,36.71,36.71,23.13,13.58,Debit Card,Online
+796,ORD-2025-0573,2025-11-01,CUST-0014,Samuel Edwards,Cardiff,Wales,Bluetooth Speaker,Electronics,1,50.48,50.48,36.27,14.21,PayPal,Online
+797,ORD-2025-0574,2025-11-01,CUST-0081,James Foster,Southampton,South East,LED Desk Lamp,Home & Kitchen,2,29.06,58.12,33.03,25.09,Credit Card,Online
+798,ORD-2025-0575,2025-11-01,CUST-0098,Isaac Shah,Cambridge,East,Printer Paper Pack,Office,1,8.15,8.15,4.34,3.81,Credit Card,Online
+799,ORD-2025-0576,2025-11-02,CUST-0011,Thomas Ahmed,Liverpool,North West,Electric Kettle,Home & Kitchen,1,35.69,35.69,24.53,11.16,Credit Card,Marketplace
+800,ORD-2025-0577,2025-11-02,CUST-0105,Lucas Campbell,Brighton,South East,Waterproof Picnic Blanket,Outdoor,1,28.55,28.55,16.21,12.34,PayPal,Marketplace
+801,ORD-2025-0577,2025-11-02,CUST-0105,Lucas Campbell,Brighton,South East,Noise-Cancelling Headphones,Electronics,2,142.79,285.58,236.04,49.54,PayPal,Marketplace
+802,ORD-2025-0578,2025-11-03,CUST-0033,Joseph Smith,Manchester,North West,Electric Kettle,Home & Kitchen,1,33.91,33.91,22.96,10.95,Apple Pay,Retail Store
+803,ORD-2025-0578,2025-11-03,CUST-0033,Joseph Smith,Manchester,North West,Laptop Stand,Electronics,1,40.79,40.79,24.37,16.42,Apple Pay,Retail Store
+804,ORD-2025-0579,2025-11-03,CUST-0151,Chloe Smith,Cardiff,Wales,USB-C Hub,Electronics,2,45.89,91.78,60.31,31.47,Credit Card,Retail Store
+805,ORD-2025-0580,2025-11-04,CUST-0004,Olivia Carter,Leeds,Yorkshire,Full HD Webcam,Electronics,1,61.19,61.19,45.70,15.49,PayPal,Marketplace
+806,ORD-2025-0581,2025-11-04,CUST-0063,Daniel Hughes,Bristol,South West,Foam Roller,Fitness,2,24.78,49.56,29.02,20.54,PayPal,Online
+807,ORD-2025-0581,2025-11-04,CUST-0063,Daniel Hughes,Bristol,South West,LED Desk Lamp,Home & Kitchen,2,29.06,58.12,33.03,25.09,PayPal,Online
+808,ORD-2025-0582,2025-11-05,CUST-0001,Imogen Roberts,Bristol,South West,Printer Paper Pack,Office,1,7.33,7.33,4.30,3.03,Debit Card,Online
+809,ORD-2025-0583,2025-11-05,CUST-0094,Leo Patel,Exeter,South West,Wireless Mouse,Electronics,2,22.94,45.88,30.42,15.46,Credit Card,Online
+810,ORD-2025-0584,2025-11-05,CUST-0145,Ethan Campbell,Exeter,South West,Laptop Stand,Electronics,2,38.75,77.50,46.48,31.02,PayPal,Online
+811,ORD-2025-0585,2025-11-06,CUST-0002,Amelia Edwards,Sheffield,Yorkshire,Foam Roller,Fitness,3,27.53,82.59,49.36,33.23,Credit Card,Marketplace
+812,ORD-2025-0586,2025-11-06,CUST-0004,Olivia Carter,Leeds,Yorkshire,Hiking Backpack 30L,Outdoor,1,71.39,71.39,49.05,22.34,Credit Card,Retail Store
+813,ORD-2025-0587,2025-11-06,CUST-0039,Oscar Lewis,Cambridge,East,LED Desk Lamp,Home & Kitchen,4,30.59,122.36,66.39,55.97,Apple Pay,Online
+814,ORD-2025-0588,2025-11-08,CUST-0065,Layla Thomas,Brighton,South East,Cookware Set,Home & Kitchen,2,100.97,201.94,162.94,39.00,Gift Card,Online
+815,ORD-2025-0588,2025-11-08,CUST-0065,Layla Thomas,Brighton,South East,Air Fryer,Home & Kitchen,1,91.79,91.79,65.33,26.46,Gift Card,Online
+816,ORD-2025-0589,2025-11-08,CUST-0156,Lucas Wilson,Brighton,South East,Stainless Steel Travel Mug,Outdoor,2,16.31,32.62,21.77,10.85,Credit Card,Marketplace
+817,ORD-2025-0590,2025-11-08,CUST-0164,Layla Lewis,Brighton,South East,USB-C Hub,Electronics,1,43.60,43.60,28.88,14.72,Credit Card,Online
+818,ORD-2025-0590,2025-11-08,CUST-0164,Layla Lewis,Brighton,South East,Waterproof Picnic Blanket,Outdoor,2,28.55,57.10,28.71,28.39,Credit Card,Online
+819,ORD-2025-0591,2025-11-09,CUST-0019,Eleanor Bennett,Sheffield,Yorkshire,Insulated Sports Bottle,Fitness,1,14.53,14.53,7.25,7.28,Cash,Retail Store
+820,ORD-2025-0592,2025-11-09,CUST-0055,Emily Khan,Cardiff,Wales,Yoga Mat,Fitness,1,21.67,21.67,13.40,8.27,Debit Card,Retail Store
+821,ORD-2025-0592,2025-11-09,CUST-0055,Emily Khan,Cardiff,Wales,Foam Roller,Fitness,3,27.53,82.59,46.06,36.53,Debit Card,Retail Store
+822,ORD-2025-0593,2025-11-11,CUST-0014,Samuel Edwards,Cardiff,Wales,Insulated Sports Bottle,Fitness,4,13.00,52.00,28.50,23.50,Debit Card,Retail Store
+823,ORD-2025-0594,2025-11-11,CUST-0016,Alice Patel,Manchester,North West,Gel Pen Set,Office,3,9.17,27.51,13.98,13.53,PayPal,Marketplace
+824,ORD-2025-0594,2025-11-11,CUST-0016,Alice Patel,Manchester,North West,USB-C Hub,Electronics,1,45.89,45.89,31.99,13.90,PayPal,Marketplace
+825,ORD-2025-0595,2025-11-13,CUST-0004,Olivia Carter,Leeds,Yorkshire,LED Desk Lamp,Home & Kitchen,2,30.59,61.18,33.20,27.98,Debit Card,Online
+826,ORD-2025-0596,2025-11-13,CUST-0034,Emily Edwards,Liverpool,North West,Yoga Mat,Fitness,1,25.49,25.49,13.07,12.42,Credit Card,Online
+827,ORD-2025-0597,2025-11-13,CUST-0061,Ethan Foster,Newcastle,North East,Adjustable Dumbbell Set,Fitness,1,86.69,86.69,63.01,23.68,Cash,Retail Store
+828,ORD-2025-0597,2025-11-13,CUST-0061,Ethan Foster,Newcastle,North East,Foam Roller,Fitness,1,27.53,27.53,15.35,12.18,Cash,Retail Store
+829,ORD-2025-0598,2025-11-13,CUST-0085,Daniel Robinson,Cardiff,Wales,Full HD Webcam,Electronics,3,55.07,165.21,128.30,36.91,Debit Card,Retail Store
+830,ORD-2025-0599,2025-11-13,CUST-0143,Layla Evans,London,London,Gel Pen Set,Office,3,7.34,22.02,11.89,10.13,Apple Pay,Online
+831,ORD-2025-0600,2025-11-14,CUST-0171,Layla Hughes,Southampton,South East,LED Desk Lamp,Home & Kitchen,1,30.59,30.59,16.60,13.99,Credit Card,Online
+832,ORD-2025-0600,2025-11-14,CUST-0171,Layla Hughes,Southampton,South East,Cookware Set,Home & Kitchen,1,106.58,106.58,81.78,24.80,Credit Card,Online
+833,ORD-2025-0601,2025-11-16,CUST-0050,Zara Foster,London,London,Noise-Cancelling Headphones,Electronics,1,142.79,142.79,108.74,34.05,Gift Card,Online
+834,ORD-2025-0602,2025-11-16,CUST-0066,Thomas Foster,London,London,Camping Lantern,Outdoor,2,30.28,60.56,37.49,23.07,Credit Card,Online
+835,ORD-2025-0602,2025-11-16,CUST-0066,Thomas Foster,London,London,Air Fryer,Home & Kitchen,1,87.20,87.20,65.08,22.12,Credit Card,Online
+836,ORD-2025-0603,2025-11-17,CUST-0044,Lily Lewis,Manchester,North West,Bluetooth Speaker,Electronics,1,44.87,44.87,35.96,8.91,Credit Card,Online
+837,ORD-2025-0604,2025-11-19,CUST-0041,Emily Thomas,Liverpool,North West,Electric Kettle,Home & Kitchen,2,35.69,71.38,44.41,26.97,Debit Card,Online
+838,ORD-2025-0605,2025-11-20,CUST-0009,Maya Wilson,Brighton,South East,Laptop Stand,Electronics,1,40.79,40.79,24.37,16.42,Credit Card,Retail Store
+839,ORD-2025-0606,2025-11-21,CUST-0175,Lily Collins,Southampton,South East,Mechanical Keyboard,Electronics,2,57.11,114.22,92.95,21.27,PayPal,Online
+840,ORD-2025-0607,2025-11-22,CUST-0041,Emily Thomas,Liverpool,North West,Printer Paper Pack,Office,2,8.15,16.30,8.68,7.62,Apple Pay,Online
+841,ORD-2025-0607,2025-11-22,CUST-0041,Emily Thomas,Liverpool,North West,Adjustable Dumbbell Set,Fitness,2,86.69,173.38,121.68,51.70,Apple Pay,Online
+842,ORD-2025-0608,2025-11-22,CUST-0081,James Foster,Southampton,South East,Bluetooth Speaker,Electronics,2,44.87,89.74,71.91,17.83,Debit Card,Online
+843,ORD-2025-0609,2025-11-24,CUST-0030,Eleanor Morris,Sheffield,Yorkshire,Printer Paper Pack,Office,3,7.74,23.22,12.96,10.26,PayPal,Online
+844,ORD-2025-0609,2025-11-24,CUST-0030,Eleanor Morris,Sheffield,Yorkshire,Mechanical Keyboard,Electronics,2,71.39,142.78,94.52,48.26,PayPal,Online
+845,ORD-2025-0610,2025-11-25,CUST-0058,Isaac Carter,Cambridge,East,Air Fryer,Home & Kitchen,2,82.61,165.22,129.66,35.56,PayPal,Online
+846,ORD-2025-0611,2025-11-25,CUST-0140,Alice Hughes,Leeds,Yorkshire,Electric Kettle,Home & Kitchen,4,28.55,114.20,87.25,26.95,Debit Card,Online
+847,ORD-2025-0612,2025-11-27,CUST-0092,Ethan Smith,London,London,Cookware Set,Home & Kitchen,1,106.58,106.58,81.78,24.80,PayPal,Online
+848,ORD-2025-0613,2025-11-28,CUST-0010,Charlotte Martin,Brighton,South East,Adjustable Monitor Arm,Office,1,76.49,76.49,52.16,24.33,Credit Card,Phone
+849,ORD-2025-0614,2025-11-28,CUST-0160,Grace Thomas,Leeds,Yorkshire,Stainless Steel Travel Mug,Outdoor,1,20.39,20.39,10.25,10.14,Credit Card,Phone
+850,ORD-2025-0614,2025-11-28,CUST-0160,Grace Thomas,Leeds,Yorkshire,Insulated Sports Bottle,Fitness,1,15.29,15.29,7.08,8.21,Credit Card,Phone
+851,ORD-2025-0615,2025-11-29,CUST-0155,Maya Smith,Leeds,Yorkshire,Gel Pen Set,Office,1,9.17,9.17,4.29,4.88,Debit Card,Retail Store
+852,ORD-2025-0616,2025-12-01,CUST-0014,Samuel Edwards,Cardiff,Wales,Yoga Mat,Fitness,3,25.49,76.47,39.21,37.26,PayPal,Online
+853,ORD-2025-0617,2025-12-01,CUST-0119,Ethan Phillips,Leeds,Yorkshire,Adjustable Dumbbell Set,Fitness,3,69.35,208.05,184.86,23.19,Credit Card,Retail Store
+854,ORD-2025-0617,2025-12-01,CUST-0119,Ethan Phillips,Leeds,Yorkshire,Wireless Mouse,Electronics,4,24.22,96.88,63.55,33.33,Credit Card,Retail Store
+855,ORD-2025-0618,2025-12-03,CUST-0018,Noah Mitchell,Leeds,Yorkshire,Portable SSD 1TB,Electronics,3,87.20,261.60,225.26,36.34,Credit Card,Phone
+856,ORD-2025-0619,2025-12-03,CUST-0024,Mohammed Bennett,Sheffield,Yorkshire,Mechanical Keyboard,Electronics,1,71.39,71.39,47.26,24.13,Credit Card,Online
+857,ORD-2025-0620,2025-12-05,CUST-0035,Oscar Collins,London,London,Adjustable Monitor Arm,Office,1,61.19,61.19,54.53,6.66,PayPal,Marketplace
+858,ORD-2025-0621,2025-12-05,CUST-0039,Oscar Lewis,Cambridge,East,USB-C Hub,Electronics,1,45.89,45.89,31.99,13.90,Debit Card,Marketplace
+859,ORD-2025-0622,2025-12-05,CUST-0165,Zara Shah,London,London,Stainless Steel Travel Mug,Outdoor,3,20.39,61.17,30.15,31.02,Debit Card,Online
+860,ORD-2025-0622,2025-12-05,CUST-0165,Zara Shah,London,London,Notebook Set,Office,2,12.59,25.18,12.46,12.72,Debit Card,Online
+861,ORD-2025-0623,2025-12-06,CUST-0009,Maya Wilson,Brighton,South East,Laptop Stand,Electronics,1,38.75,38.75,24.21,14.54,Debit Card,Retail Store
+862,ORD-2025-0623,2025-12-06,CUST-0009,Maya Wilson,Brighton,South East,Printer Paper Pack,Office,2,6.52,13.04,8.83,4.21,Debit Card,Retail Store
+863,ORD-2025-0624,2025-12-06,CUST-0172,Freddie King,London,London,Cordless Vacuum,Home & Kitchen,2,173.39,346.78,286.55,60.23,Debit Card,Retail Store
+864,ORD-2025-0624,2025-12-06,CUST-0172,Freddie King,London,London,Bluetooth Speaker,Electronics,1,53.29,53.29,37.75,15.54,Debit Card,Retail Store
+865,ORD-2025-0625,2025-12-08,CUST-0045,Harry Evans,Nottingham,Midlands,Hiking Backpack 30L,Outdoor,1,71.39,71.39,49.05,22.34,Cash,Retail Store
+866,ORD-2025-0626,2025-12-09,CUST-0131,Hannah Morgan,Liverpool,North West,Notebook Set,Office,1,11.92,11.92,6.19,5.73,Credit Card,Online
+867,ORD-2025-0627,2025-12-10,CUST-0030,Eleanor Morris,Sheffield,Yorkshire,Camping Lantern,Outdoor,1,33.65,33.65,19.77,13.88,Apple Pay,Retail Store
+868,ORD-2025-0628,2025-12-10,CUST-0128,Daniel Miller,London,London,Air Fryer,Home & Kitchen,1,91.79,91.79,71.30,20.49,Debit Card,Marketplace
+869,ORD-2025-0629,2025-12-10,CUST-0159,Priya King,Glasgow,Scotland,Hiking Backpack 30L,Outdoor,2,71.39,142.78,94.52,48.26,PayPal,Online
+870,ORD-2025-0630,2025-12-12,CUST-0022,Joseph Hughes,Glasgow,Scotland,Yoga Mat,Fitness,3,24.22,72.66,43.72,28.94,Debit Card,Marketplace
+871,ORD-2025-0630,2025-12-12,CUST-0022,Joseph Hughes,Glasgow,Scotland,Air Fryer,Home & Kitchen,1,91.79,91.79,71.30,20.49,Debit Card,Marketplace
+872,ORD-2025-0631,2025-12-12,CUST-0109,Lucas Cooper,Birmingham,Midlands,Foam Roller,Fitness,1,27.53,27.53,15.35,12.18,Credit Card,Retail Store
+873,ORD-2025-0632,2025-12-12,CUST-0173,James Evans,Nottingham,Midlands,Mechanical Keyboard,Electronics,2,57.11,114.22,95.81,18.41,Debit Card,Retail Store
+874,ORD-2025-0633,2025-12-13,CUST-0121,Freddie Patel,Glasgow,Scotland,Resistance Band Set,Fitness,1,19.37,19.37,9.35,10.02,Debit Card,Online
+875,ORD-2025-0634,2025-12-16,CUST-0046,Imogen Green,London,London,Notebook Set,Office,3,12.59,37.77,18.69,19.08,Debit Card,Online
+876,ORD-2025-0634,2025-12-16,CUST-0046,Imogen Green,London,London,Waterproof Picnic Blanket,Outdoor,1,28.55,28.55,14.35,14.20,Debit Card,Online
+877,ORD-2025-0635,2025-12-18,CUST-0004,Olivia Carter,Leeds,Yorkshire,Hiking Backpack 30L,Outdoor,3,71.39,214.17,141.78,72.39,Credit Card,Online
+878,ORD-2025-0635,2025-12-18,CUST-0004,Olivia Carter,Leeds,Yorkshire,Wireless Mouse,Electronics,1,24.22,24.22,15.28,8.94,Credit Card,Online
+879,ORD-2025-0636,2025-12-18,CUST-0037,George Campbell,London,London,Printer Paper Pack,Office,1,8.15,8.15,4.34,3.81,Credit Card,Online
+880,ORD-2025-0637,2025-12-18,CUST-0082,Emily Taylor,Leeds,Yorkshire,Gel Pen Set,Office,1,9.17,9.17,4.06,5.11,Credit Card,Online
+881,ORD-2025-0638,2025-12-19,CUST-0007,Zara Singh,Southampton,South East,Resistance Band Set,Fitness,1,15.50,15.50,9.53,5.97,Cash,Retail Store
+882,ORD-2025-0639,2025-12-19,CUST-0049,Charlotte Phillips,Cambridge,East,Gel Pen Set,Office,1,9.17,9.17,4.06,5.11,Debit Card,Online
+883,ORD-2025-0640,2025-12-20,CUST-0003,Imogen Morris,Glasgow,Scotland,Mechanical Keyboard,Electronics,1,71.39,71.39,47.26,24.13,Credit Card,Online
+884,ORD-2025-0641,2025-12-20,CUST-0064,Mohammed Robinson,Leeds,Yorkshire,Notebook Set,Office,2,13.25,26.50,12.53,13.97,Credit Card,Online
+885,ORD-2025-0642,2025-12-22,CUST-0160,Grace Thomas,Leeds,Yorkshire,Air Fryer,Home & Kitchen,1,87.20,87.20,67.26,19.94,Debit Card,Retail Store
+886,ORD-2025-0642,2025-12-22,CUST-0160,Grace Thomas,Leeds,Yorkshire,Gel Pen Set,Office,2,9.17,18.34,8.58,9.76,Debit Card,Retail Store
+887,ORD-2025-0642,2025-12-22,CUST-0160,Grace Thomas,Leeds,Yorkshire,Printer Paper Pack,Office,1,8.15,8.15,4.54,3.61,Debit Card,Retail Store
+888,ORD-2025-0643,2025-12-23,CUST-0016,Alice Patel,Manchester,North West,Hiking Backpack 30L,Outdoor,2,57.11,114.22,100.38,13.84,Credit Card,Marketplace
+889,ORD-2025-0643,2025-12-23,CUST-0016,Alice Patel,Manchester,North West,Foam Roller,Fitness,2,27.53,55.06,32.91,22.15,Credit Card,Marketplace
+890,ORD-2025-0644,2025-12-24,CUST-0015,Jessica Miller,London,London,LED Desk Lamp,Home & Kitchen,2,27.53,55.06,32.86,22.20,Debit Card,Online
+891,ORD-2025-0645,2025-12-25,CUST-0050,Zara Foster,London,London,Wireless Mouse,Electronics,1,25.49,25.49,15.99,9.50,Debit Card,Retail Store
+892,ORD-2025-0645,2025-12-25,CUST-0050,Zara Foster,London,London,Air Fryer,Home & Kitchen,3,91.79,275.37,202.88,72.49,Debit Card,Retail Store
+893,ORD-2025-0645,2025-12-25,CUST-0050,Zara Foster,London,London,Ergonomic Desk Chair,Office,2,193.79,387.58,331.43,56.15,Debit Card,Retail Store
+894,ORD-2025-0646,2025-12-26,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Notebook Set,Office,1,13.25,13.25,6.40,6.85,Credit Card,Phone
+895,ORD-2025-0646,2025-12-26,CUST-0021,Daniel Cooper,Edinburgh,Scotland,Laptop Stand,Electronics,4,40.79,163.16,95.03,68.13,Credit Card,Phone
+896,ORD-2025-0647,2025-12-26,CUST-0102,Alice Brown,London,London,Two-Drawer Filing Cabinet,Office,2,116.27,232.54,180.86,51.68,Debit Card,Online
+897,ORD-2025-0648,2025-12-29,CUST-0048,Maya Green,Belfast,Northern Ireland,Bluetooth Speaker,Electronics,1,44.87,44.87,35.96,8.91,Debit Card,Online
+898,ORD-2025-0649,2025-12-30,CUST-0006,Mohammed Mitchell,Nottingham,Midlands,Cordless Vacuum,Home & Kitchen,1,164.72,164.72,138.46,26.26,PayPal,Online
+899,ORD-2025-0649,2025-12-30,CUST-0006,Mohammed Mitchell,Nottingham,Midlands,Gel Pen Set,Office,2,8.25,16.50,8.02,8.48,PayPal,Online
+900,ORD-2025-0650,2025-12-31,CUST-0049,Charlotte Phillips,Cambridge,East,Printer Paper Pack,Office,1,7.33,7.33,4.30,3.03,Debit Card,Online
