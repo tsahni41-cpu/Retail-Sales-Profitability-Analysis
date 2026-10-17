@@ -1,0 +1,9 @@
+Place your finished Power BI file in this folder.
+
+Filename:
+Retail_Sales_PowerBI_Dashboard.pbix
+
+If the PBIX file was deleted:
+1. Check Windows Recycle Bin.
+2. If Power BI Desktop is still open, use File > Save As and save it here.
+3. If another copy exists elsewhere, copy it into this folder.
